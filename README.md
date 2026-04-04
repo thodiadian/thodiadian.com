@@ -1,39 +1,22 @@
-# Chirpy Starter
+# Đồ án SEO: Thổ Địa Dĩ An - Làng Đại Học
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Dự án tối ưu hóa công cụ tìm kiếm (SEO) cho ngách Review Ẩm thực, Cà phê và Đời sống sinh viên tại khu vực Dĩ An và Làng Đại học.
 
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
+## 1. Cấu trúc thư mục đồ án
+- `/docs`: Chứa báo cáo cuối kỳ và hướng dẫn sử dụng.
+- `/analysis`: Chứa dữ liệu phân tích từ khóa, backlink, traffic.
+- `/content`: Chứa bản nháp nội dung đã tối ưu hóa On-page.
+- `/presentation`: Chứa slide thuyết trình bảo vệ đồ án.
+- `strategy.json`: File khai báo chiến lược SEO tổng thể.
 
-## Why This Starter Exists
+## 2. Hướng dẫn cài đặt Website (Dành cho thành viên nhóm)
+Website được xây dựng dựa trên nền tảng GitHub Pages và Jekyll Static Site Generator.
+- **Bước 1:** Viết bài trên định dạng Markdown (`.md`).
+- **Bước 2:** Đặt file bài viết vào thư mục `_posts` với cú pháp tên: `YYYY-MM-DD-ten-bai-viet.md`.
+- **Bước 3:** Push code lên nhánh `main`, GitHub Action sẽ tự động deploy trang web.
 
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
-
-To unlock all features, the following files must be present in your Jekyll site:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
-
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 3. Hướng dẫn sử dụng các SEO Tools trong dự án
+- **Google Search Console:** Dùng để submit sitemap (tại `_site/sitemap.xml`) và theo dõi hiệu suất index.
+- **Google Analytics 4:** Mã Tracking ID đã được gắn trong file `_config.yml` để đo lường Traffic và Dwell Time.
+- **Ahrefs / Keyword Planner:** Được sử dụng để phân tích và lập danh sách từ khóa đuôi dài (Long-tail keywords) có độ cạnh tranh thấp tại địa phương.
+- **PageSpeed Insights:** Dùng để kiểm tra và tối ưu Core Web Vitals định kỳ sau mỗi lần cập nhật nội dung.
