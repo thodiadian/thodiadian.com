@@ -1,5 +1,6 @@
 ---
-layout: LƯU TRỮ
+layout: archives
+title: LƯU TRỮ
 icon: fas fa-archive
 order: 3
 ---
