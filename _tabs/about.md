@@ -1,8 +1,7 @@
 ---
-layout: GIỚI THIỆU
+title: GIỚI THIỆU
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Chào mừng bạn đến với **Thổ Địa Dĩ An**! Nơi đây chuyên tổng hợp và đánh giá chân thực nhất các địa điểm ăn uống, vui chơi và đời sống sinh viên quanh khu vực Dĩ An và Làng Đại học.
