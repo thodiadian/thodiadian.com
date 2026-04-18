@@ -105,7 +105,7 @@ Home Coffee có diện tích khá lớn với 2 tầng lầu. Tầng trệt thư
 
 SnOw Cafe là một cái tên quen thuộc với giới trẻ Dĩ An không chỉ vì đồ uống ngon mà còn bởi không gian rộng rãi và cách bố trí khu vực rất thông minh. Quán nằm trên đường K, một trong những tuyến đường sầm uất của thành phố.
 
-![SnOw Cafe Dĩ An](/assets/images/8Snow_caffee_di_an-900-640.jpg)
+![SnOw Cafe Dĩ An](/assets/images/Snow_caffee_di_an-900-640.jpg)
 *Chú thích ảnh: Không gian rộng tại SnOw Cafe*
 
 Điểm đặc biệt của SnOw là sự phân tách rõ ràng giữa các khu vực chức năng. Có một khu vực lớn với bàn ghế cao dành cho những bạn thích sự năng động, khu vực bàn thấp sofa cho nhóm bạn trò chuyện, và đặc biệt là **khu vực học tập - làm việc được thiết kế riêng biệt, cách âm tương đối tốt với phần còn lại**. Khu vực này thường xuyên có sinh viên và người đi làm ghé qua, tạo nên một cộng đồng học tập nghiêm túc.

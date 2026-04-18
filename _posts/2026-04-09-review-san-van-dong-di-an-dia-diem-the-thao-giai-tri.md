@@ -6,7 +6,7 @@ categories: [Review, Giải trí, Thể thao]
 tags: [sân vận động dĩ an, sân bóng dĩ an, thể thao dĩ an, giải trí dĩ an, sân chơi dĩ an]
 description: "Khám phá chi tiết Sân Vận Động Dĩ An - địa điểm thể thao hiện đại, phù hợp cho các hoạt động giải trí, tổ chức sự kiện và rèn luyện sức khỏe tại Bình Dương."
 image:
-  path: /assets/images/san-van-dong-di-an-cover.png
+  path: /assets/images/san_van_dong_di_an-900-660.jpg
   alt: "Sân Vận Động Dĩ An - Cơ sở thể thao hiện đại tại Bình Dương"
 ---
 
@@ -23,7 +23,7 @@ Sân Vận Động Dĩ An nằm ở một vị trí rất thuận tiện, dễ t
 * **Gửi xe:** Khu vực bãi giữ xe rộng rãi, an toàn và được quản lý chuyên nghiệp, phù hợp cho cả xe máy và ô tô.
 * **Liên hệ:** Có đường dây nóng để đặt sân hoặc tư vấn chi tiết.
 
-![Toàn cảnh Sân Vận Động Dĩ An](/assets/images/san-van-dong-di-an-toan-canh.png)
+![Toàn cảnh Sân Vận Động Dĩ An](/assets/images/san_van_dong_di_an_2-900-500.jpg)
 *Chú thích ảnh: Diện mạo hiện đại của Sân Vận Động Dĩ An với các tiện ích đầy đủ*
 
 ## 2. Các Tiện Ích và Cơ Sở Vật Chất Tại Sân Vận Động

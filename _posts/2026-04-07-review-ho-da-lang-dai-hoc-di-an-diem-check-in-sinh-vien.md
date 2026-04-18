@@ -36,7 +36,7 @@ Vào những buổi chiều tà từ 17:00 trở đi, mặt nước hồ phẳng
 Dưới những tán cây xanh mát ven hồ, bạn sẽ bắt gặp rất nhiều nhóm bạn sinh viên ngồi tụ tập hát hò, trò chuyện sau những giờ học căng thẳng. Những cơn gió mát lành thổi từ mặt hồ rộng lớn mang theo hơi nước giúp xua tan đi cái oi bức đặc trưng của khí hậu miền Nam. Đây cũng là nơi lý tưởng cho các buổi picnic nhỏ với bạn bè vào những buổi chiều cuối tuần. Một tấm thảm trải, vài món ăn vặt và những câu chuyện rôm rả sẽ là công thức hoàn hảo cho một buổi chiều thư giãn.
 Không khí tại đây luôn mát mẻ hơn hẳn so với sự ồn ào, khói bụi của phố thị bên ngoài. Nằm cách xa các khu công nghiệp và trục đường giao thông chính, Hồ Đá được bao bọc bởi một vùng đệm cây xanh rộng lớn của Khu đô thị Đại học, tạo nên một "lá phổi xanh" quý giá cho cả khu vực Dĩ An.
 
-![Nhóm sinh viên ngồi hóng gió ven Hồ Đá](1200-960px.png/ho_da_lang_dai_hoc_1-1200-900.jpg)
+![Nhóm sinh viên ngồi hóng gió ven Hồ Đá](/assets/images/ho_da_lang_dai_hoc_1-1200-900.jpg)
 *Alt Text: Hồ đá vào buổi chiều*
 
 ## 3. Review ưu và nhược điểm thực tế
