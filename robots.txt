@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thodiadian.github.io/sitemap.xml
