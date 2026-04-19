@@ -36,12 +36,13 @@ footer {
     border-radius: 50% !important;
 }
 
-/* Tạo khoảng đệm ở đáy trang để dễ bấm nút chuyển trang */
-.pagination {
-    margin-bottom: 60px !important;
+/* Ép khoảng trắng ở dưới cùng của toàn bộ khu vực nội dung */
+main {
+    padding-bottom: 100px !important;
 }
 
-/* Đảm bảo khung nội dung chính không bị lẹm xuống đáy */
-#main-wrapper {
-    padding-bottom: 60px !important;
+/* Đẩy riêng thanh phân trang lên cao */
+.pagination, .post-paginator {
+    margin-bottom: 50px !important;
+    padding-bottom: 20px !important;
 }
