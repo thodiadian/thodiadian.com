@@ -35,3 +35,13 @@ footer {
     object-fit: cover !important; /* Cắt cúp ảnh vừa vặn khung hình tròn không bị méo */
     border-radius: 50% !important;
 }
+
+/* Tạo khoảng đệm ở đáy trang để dễ bấm nút chuyển trang */
+.pagination {
+    margin-bottom: 60px !important;
+}
+
+/* Đảm bảo khung nội dung chính không bị lẹm xuống đáy */
+#main-wrapper {
+    padding-bottom: 60px !important;
+}
