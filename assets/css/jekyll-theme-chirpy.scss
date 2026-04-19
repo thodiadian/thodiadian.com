@@ -3,6 +3,22 @@
 
 @use 'main{%- if jekyll.environment == 'production' -%}.bundle{%- endif -%}';
 
+/* Code sửa lỗi font chữ tiếng Việt */
 body, h1, h2, h3, h4, h5, h6, p, a, span, li, blockquote {
     font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* 1. Ẩn cụm icon dưới cùng của thanh Sidebar */
+.sidebar-bottom {
+    display: none !important;
+}
+
+/* 2. Ẩn thanh Footer chứa bản quyền và credit của theme */
+footer {
+    display: none !important;
+}
+
+/* 3. Ẩn phần giấy phép và các nút chia sẻ mạng xã hội dưới cuối bài viết */
+.post-tail-bottom, .post-license {
+    display: none !important;
 }
