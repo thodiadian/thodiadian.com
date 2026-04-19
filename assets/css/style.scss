@@ -5,7 +5,6 @@ $tab-count: {{ site.tabs | size | plus: 1 }};
 
 @import "{{ site.theme }}";
 
-/* Code sửa lỗi font chữ bên dưới */
 body, h1, h2, h3, h4, h5, h6, p, a, span, li, blockquote {
     font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
 }
