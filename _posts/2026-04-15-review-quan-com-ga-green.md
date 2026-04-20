@@ -43,5 +43,6 @@ Vì là quán cơm trong làng đại học nên giá cả của quán rất chi
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Xem các bài review cơm sinh viên khác của Thổ địa Dĩ An:****  
+- Nhấn vào đây để xem thêm: [Cơm tấm Ngô Quyền ngon nhất ở làng đại học](/.2026-04-15-review-quan-com-ngo-quyen.md)  
+- Đừng bỏ lỡ: [Cơm gà sốt cay đặc sắc nhất ở làng đại học](/.2026-04-15-review-quan-com-ga-green.md)
