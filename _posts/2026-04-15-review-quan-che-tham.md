@@ -57,4 +57,4 @@ Rồi chi thêm vài nghìn nữa là ta có thể gọi những ly còn đậm 
 ---
 
 ****Bài viết liên quan bạn nên xem (Internal Link):**** - 
-- Đừng bỏ lỡ: [Review quán trà trái cây ngon nhất Dĩ An](/2026-04-16-review-quan-tra-trai-cay-ben-tea.md)
+- Đừng bỏ lỡ: [Review quán trà trái cây ngon nhất Dĩ An](./2026-04-16-review-quan-tra-trai-cay-ben-tea.md)
