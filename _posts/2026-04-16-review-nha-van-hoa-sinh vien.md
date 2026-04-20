@@ -46,5 +46,5 @@ Nếu sinh viên muốn ăn vặt hay mua đồ gia dụng, quần áo với kin
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Bài viết liên quan bạn nên xem:**** 
+- Đừng bỏ lỡ: [Ăn uống ở căn tin xịn nhất làng đại học](./2026-04-16-review-canteen-dai-hoc-ngoai-thuong.md)
