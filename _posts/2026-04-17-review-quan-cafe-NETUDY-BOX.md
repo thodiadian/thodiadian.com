@@ -50,5 +50,6 @@ Quán không bán đa dạng đồ uống lắm, chủ yếu là cà phê, trà 
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Bài viết liên quan bạn nên xem:**** 
+- Đừng bỏ lỡ: [Kinh nghiệm thuê study box gần ký túc xá](./2026-04-17-review-quan-cafe-yes-cafe-ktx.md)
+- Xem ngay: [Cà phê học tập máy lạnh gần ký túc xá](./2026-04-17-review-quan-cafe-ken-house.md)
