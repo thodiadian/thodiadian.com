@@ -56,5 +56,5 @@ Rồi chi thêm vài nghìn nữa là ta có thể gọi những ly còn đậm 
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Bài viết liên quan bạn nên xem (Internal Link):**** - 
+- Đừng bỏ lỡ: [Review quán trà trái cây ngon nhất Dĩ An](/2026-04-16-review-quan-tra-trai-cay-ben-tea.md)
