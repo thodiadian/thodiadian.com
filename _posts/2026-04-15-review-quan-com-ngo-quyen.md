@@ -42,5 +42,5 @@ Khẩu phần ăn vừa đủ no và còn được cho canh thịt nóng miễn 
 - ****🗺️ Google Maps:**** [Quán Cơm Ngô Quyền 3](https://maps.app.goo.gl/kUUcqtsynwaHaoUc6)
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Muốn ăn món Á Âu thay vì cơm tấm ? Nhấn vào link này:****  
+- Nhấn vào đây để xem thêm: [Trải nghiệm căn tin lớn nhất làng đại học - căn tin ngoại thương](/.2026-04-16-review-canteen-dai-hoc-ngoai-thuong.md)  
