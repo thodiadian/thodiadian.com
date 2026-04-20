@@ -52,5 +52,6 @@ Giá của quán nằm ở phía đắt hơn cho kinh phí của các bạn sinh
 
 ---
 
-****Bài viết liên quan bạn nên xem (Internal Link):**** - Nhấn vào đây để xem thêm: [Top 5 Quán ăn vặt ngon rẻ ở Làng Đại học](/link-bai-viet-1)  
-- Đừng bỏ lỡ: [Kinh nghiệm thuê phòng trọ Dĩ An không bị hớ](/link-bai-viet-2)
+****Bài viết liên quan bạn nên xem:****  
+- Đừng bỏ lỡ: [study box rẻ nhất gần làng đại học](./2026-04-17-review-quan-cafe-NETUDY-BOX.md)
+- Xem ngay: [Tiệm net giải trí ngày hè](./2026-04-18-review-quan-net-ta-gaming.md)
