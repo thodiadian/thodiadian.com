@@ -54,5 +54,5 @@ Thổ địa Dĩ An chưa thấy quán món nước nào vừa rẻ vừa ngon v
 ---
 
 ****Bài viết liên quan bạn nên xem:****  
-- Nhấn vào đây để xem thêm: [Cơm gà sốt cay ngon nhất làng đại học](/.2026-04-15-review-quan-com-ga-green.md)  
-- Đừng bỏ lỡ: [Cơm tấm ngon nhất làng đại học](/.2026-04-15-review-quan-com-ngo-quyen.md)
+- Nhấn vào đây để xem thêm: [Cơm gà sốt cay ngon nhất làng đại học](./2026-04-15-review-quan-com-ga-green.md)  
+- Đừng bỏ lỡ: [Cơm tấm ngon nhất làng đại học](./2026-04-15-review-quan-com-ngo-quyen.md)
