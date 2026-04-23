@@ -43,4 +43,4 @@ Khẩu phần ăn vừa đủ no và còn được cho canh thịt nóng miễn 
 ---
 
 ****Muốn ăn món Á Âu thay vì cơm tấm ? Nhấn vào link này:****  
-- Nhấn vào đây để xem thêm: [Trải nghiệm căn tin lớn nhất làng đại học - căn tin ngoại thương](/posts/review-canteen-dai-hoc-ngoai-thuong)  
+- Nhấn vào đây để xem thêm: [Trải nghiệm căn tin lớn nhất làng đại học - căn tin đại học quốc tế](/posts/review-canteen-dai-hoc-quoc-te)  
