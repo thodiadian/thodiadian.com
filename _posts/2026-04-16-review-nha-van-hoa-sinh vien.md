@@ -39,12 +39,12 @@ Nếu sinh viên muốn ăn vặt hay mua đồ gia dụng, quần áo với kin
 
 ## 3. Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** Số 1 Lưu Hữu Phước, Đông Hòa, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** 08:00 - 00:00  
-- ****💰 Mức giá:**** 1.000đ - 100.000đ  
-- ****🗺️ Google Maps:**** [Nhà Văn hóa Sinh viên TP.HCM](https://maps.app.goo.gl/srcStWPLB4LyAZVk9)
+- **📍 Địa chỉ:** Số 1 Lưu Hữu Phước, Đông Hòa, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** 08:00 - 00:00  
+- **💰 Mức giá:** 1.000đ - 100.000đ  
+- **🗺️ Google Maps:** [Nhà Văn hóa Sinh viên TP.HCM](https://maps.app.goo.gl/srcStWPLB4LyAZVk9)
 
 ---
 
-****Bài viết liên quan bạn nên xem:**** 
+**Bài viết liên quan bạn nên xem:** 
 - Đừng bỏ lỡ: [Ăn uống ở căn tin xịn nhất làng đại học](/posts/review-canteen-dai-hoc-quoc-te)
