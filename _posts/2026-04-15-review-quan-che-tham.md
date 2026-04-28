@@ -24,9 +24,9 @@ Bàn ghế được bố trí theo nhóm nên các bạn tha hồ rủ bạn bè
 
 ### 2.1. Các loại chè ngọt ngào
 
-**Quán đặc biệt chuyên bán đủ các loại chè từ chè khoai, chè đậu, chè sầu riêng, chè thái.  
+Quán đặc biệt chuyên bán đủ các loại chè từ chè khoai, chè đậu, chè sầu riêng, chè thái.  
 Nước chè quán làm không quá ngọt đến lấn át vị của topping, các topping và nguyên liệu được nấu tươi ngay trong ngày và không quá vị bột.  
-**
+
 ### 2.2. Đủ các loại cá viên chiên
 Ngoài việc bán chè, quán còn bán các loại cá viên chiên như bò viên, xúc xích, chả cá, hột gà nướng,... Ăn khá là ổn và vị mặn của thịt đi rất hợp với vị ngọt của các ly chè
 ![Menu quán chè Thắm siêu rẻ](/assets/images/menu_che_tham_ngon_re.jpg)
