@@ -26,12 +26,12 @@ Khẩu phần ăn vừa đủ no và còn được cho canh thịt nóng miễn 
 
 ## 3. Đánh giá ưu và nhược điểm
 
-****Ưu điểm:****  
+**Ưu điểm:**  
 - Đồ ăn ngon, khẩu phần hợp lí.  
 - Giá rẻ (chỉ từ 25k - 40k).  
 - Gần trong làng đại học cho sinh viên.
 
-****Nhược điểm:****   
+**Nhược điểm:**   
 - Chỗ để xe hơi chật.
 
 ## 4. Thông tin liên hệ & Bản đồ
