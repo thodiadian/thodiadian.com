@@ -26,23 +26,23 @@ Vì là quán cơm trong làng đại học nên giá cả của quán rất chi
 
 ## 3. Đánh giá ưu và nhược điểm
 
-****Ưu điểm:****  
+**Ưu điểm:**  
 - Bàn ghế ngoài trời, thoáng mát.  
 - Đồ ăn ngon, quán có món đặc trưng. 
 - Giá cơm rẻ  (chỉ từ 25k - 35k).
 
-****Nhược điểm:****  
+**Nhược điểm:**  
 - Không có chỗ để xe riêng nên đậu sát vỉa hè có khi hơi chật.
 
 ## 4. Thông tin liên hệ & Bản đồ
 
-- ****📍 Địa chỉ:**** Khu Phố 6, Linh Xuân, Hồ Chí Minh, Việt Nam
-- ****⏰ Giờ mở cửa:**** 09:00 - 19:30  
-- ****💰 Mức giá:**** 25.000đ - 40.000đ  
-- ****🗺️ Google Maps:**** [Cơm gà xối mỡ Green](https://maps.app.goo.gl/wwL48aWHxAa8NDSX7)
+- **📍 Địa chỉ:** Khu Phố 6, Linh Xuân, Hồ Chí Minh, Việt Nam
+- **⏰ Giờ mở cửa:** 09:00 - 19:30  
+- **💰 Mức giá:** 25.000đ - 40.000đ  
+- **🗺️ Google Maps:** [Cơm gà xối mỡ Green](https://maps.app.goo.gl/wwL48aWHxAa8NDSX7)
 
 ---
 
-****Xem các bài review cơm sinh viên khác của Thổ địa Dĩ An:****  
+**Xem các bài review cơm sinh viên khác của Thổ địa Dĩ An:**  
 - Nhấn vào đây để xem thêm: [Cơm tấm Ngô Quyền ngon nhất ở làng đại học](/posts/review-quan-com-ngo-quyen)  
 
