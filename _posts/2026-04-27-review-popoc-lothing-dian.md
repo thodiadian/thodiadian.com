@@ -6,7 +6,7 @@ categories: [Review, Địa điểm]
 tags: [popo clothing, thời trang dĩ an, mua sắm dĩ an, shop quần áo bình dương]
 description: "Khám phá POPO Clothing Dĩ An - shop thời trang nữ được yêu thích hàng đầu tại Bình Dương với đa dạng mẫu mã, giá cả hợp lý và phong cách phục vụ chuyên nghiệp."
 image: 
-  path: /assets/images/thoi-trang-popoc-lothing-dian.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/thoi-trang-popoc-lothing-dian_aejagn.jpg
   alt: "Không gian bên trong shop thời trang POPO Clothing Dĩ An"
 ---
 

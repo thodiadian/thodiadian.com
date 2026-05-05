@@ -6,7 +6,7 @@ categories: [Review, Thể thao, Giải trí]
 tags: [sân bóng đá thảo nguyên, sân pickleball thiên long, weme sports, sân thể thao dĩ an, thể thao dĩ an]
 description: "Khám phá chi tiết 3 sân thể thao nổi tiếng ở Dĩ An: Sân Bóng Đá Thảo Nguyên, Sân Pickleball Thiên Long và Weme Sports. So sánh tiện ích, giá cả và trải nghiệm tại mỗi sân."
 image:
-  path: /assets/images/san_bong_da_thao_nguyen-1200-800.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/san_bong_da_thao_nguyen-1200-800_jfpwxc.jpg
   alt: "Top các sân thể thao nổi tiếng ở Dĩ An"
 ---
 

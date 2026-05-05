@@ -6,17 +6,17 @@ categories: [Review, cà phê, học tập]
 tags: [yes cafe, cafe học bài Dĩ An, study box KTX, quán cafe yên tĩnh, thuê phòng học sinh viên]  
 description: "Review Yes Cafe KTX – quán cafe học bài yên tĩnh, có study box giá rẻ, wifi mạnh, phù hợp sinh viên Làng Đại học."  
 image:  
-  path: /assets/images/quan_yes_cafe.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/quan_yes_cafe_ahbpy3.webp  
   alt: "[Quán Yes cafe yên tĩnh]"  
----
 # Review Yes Cafe KTX – Quán cafe học bài + study box gần Làng Đại học
+---
 
 Bạn đang tìm một **quán cafe học bài yên tĩnh ở Dĩ An** nhưng vẫn muốn có **phòng riêng (study box)** khi cần tập trung?  
  **Yes Cafe KTX** là một lựa chọn rất đáng thử gần khu **ký túc xá Làng Đại học**.
 
 ## 1.Không gian quán cà phê YES có gì đặc biệt
 
-![Không gian học tập yên tĩnh](/assets/images/khong_gian_yes_cafe_yen_tinh.webp)  
+![Không gian học tập yên tĩnh](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/khong_gian_yes_cafe_yen_tinh_ewdwzo.webp)  
 *Chú thích ảnh: Không gian yên tĩnh tại quán*
 
 ### 1.1. Khu vực uống cà phê rộng rãi 
@@ -26,7 +26,7 @@ Quán nhìn ra con đường im ắng, ít tiếng ồn xe, có vòi phun sươn
 ### 1.2. Có study box
 **Nếu bạn muốn có không gian làm việc im ắng và riêng tư hơn nữa, quán có cho thuê những phòng làm việc riêng với đầy đủ tiện nghi.  
 Study box rộng rãi, chứa được tới 3 người, có chỗ cắm điện, quạt, nhà vệ sinh, chỗ ngủ, wifi mạnh.**  
-![Menu thuê phòng học giá sinh viên](/assets/images/menu_thue_phong_yes_cafe_re.webp)
+![Menu thuê phòng học giá sinh viên](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/menu_thue_phong_yes_cafe_re_ttob8r.webp)
 ## 2. Đồ uống ngon
 
 **Quán bán nhiều loại đồ uống như cà phê, trà, sinh tố, đá xay, cacao, sữa chua ngon và hợp khẩu vị cho nhiều người.  

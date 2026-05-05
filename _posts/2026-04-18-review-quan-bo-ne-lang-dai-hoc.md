@@ -6,7 +6,7 @@ categories: [Review, ăn uống sinh viên]
 tags: [bò né chibi, bò né làng đại học, bò bít tết sinh viên, ăn sáng Dĩ An, quán ăn giá rẻ]  
 description: "Review quán bò né Chibi gần Làng Đại học: bò mềm, nhiều topping, giá chỉ từ 27k – lựa chọn ăn sáng, ăn tối cho sinh viên."  
 image:  
-  path: /assets/images/quan_bo_ne_chibi_sinh_vien.webp 
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/quan_bo_ne_chibi_sinh_vien_ko6cjd.webp 
   alt: "Quán bò né Chibi trong làng đại học"  
 ---
 
@@ -31,7 +31,7 @@ Phù hợp để:
 Quán làm khẩu phần nhiều thịt bò, đậm vị, mềm, không bị khô; patê xíu mại xúc xích đi kèm cũng vậy, rất tươi ngon và đi kèm hoàn hảo với nhau;  
 trứng gà chiên mềm, không chín quá; bánh mì giòn và ấm
 
-![Menu quán bò né Chibi siêu rẻ](/assets/images/menu_bo_ne_chibi_sinh_vien.webp)
+![Menu quán bò né Chibi siêu rẻ](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/menu_bo_ne_chibi_sinh_vien_xrlu6r.webp)
 
 
 ## 3. Giá cả hợp với túi tiền sinh viên

@@ -6,7 +6,7 @@ categories: [Review, Mua Sắm]
 tags: [nội thất anh dũng, đồ gỗ dĩ an, showroom nội thất, bàn ghế dĩ an]
 description: "Review Nội Thất Anh Dũng Dĩ An - showroom đồ gỗ gia đình uy tín, sản phẩm từ gỗ tự nhiên và công nghiệp, mẫu mã đa dạng, phù hợp mọi không gian sống."
 image: 
-  path: /assets/images/noi_that_anh_dung_di_an.png
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/noi_that_anh_dung_di_an_gsepdw.jpg
   alt: "Trưng bày bàn ghế phòng khách tại Nội Thất Anh Dũng Dĩ An"
 ---
 

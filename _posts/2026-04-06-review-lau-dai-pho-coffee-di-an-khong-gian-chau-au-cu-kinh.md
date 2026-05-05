@@ -6,7 +6,7 @@ categories: [Review, Cà phê, Địa điểm check-in]
 tags: [lau dai pho coffee, cafe di an, quan cafe dep di an, dia diem check in di an]
 description: "Lâu Đài Phố Coffee Dĩ An mang không gian châu Âu cổ kính, view đẹp sống ảo cực chất. Khám phá ngay địa chỉ, menu giá cả và những góc check-in triệu view tại quán cà phê đẹp nhất nhì Dĩ An."
 image:
-  path: /assets/images/lau_dai_pho_coffee-1200-1200.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/lau_dai_pho_coffee-1200-1200_divau7.jpg
   alt: "Lâu Đài Phố Coffee Dĩ An – không gian cà phê lâu đài châu Âu cổ kính"
 ---
 

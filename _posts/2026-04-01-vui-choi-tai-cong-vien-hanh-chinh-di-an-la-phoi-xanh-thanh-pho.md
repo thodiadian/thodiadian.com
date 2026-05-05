@@ -40,7 +40,7 @@ Khu vực trung tâm công viên có các khu vui chơi miễn phí với cầu 
 Ngoài ra, xung quanh công viên còn có các dịch vụ như thuê xe điện trẻ em, câu cá nhựa và tô tượng, tạo nên một tổ hợp giải trí cuối tuần trọn vẹn cho các gia đình
 Ngoài ra, xung quanh công viên còn có các dịch vụ như thuê xe điện trẻ em, câu cá nhựa và tô tượng, tạo nên một tổ hợp giải trí cuối tuần trọn vẹn cho các gia đình.
 
-![Người dân tập thể dục tại công viên](/assets/images/Cong_vien_hanh_chinh_di_an_1200-960.jpg)
+![Người dân tập thể dục tại công viên](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Cong_vien_hanh_chinh_di_an_1200-960_cwpc1a.jpg)
 *Hoạt động thể dục nhịp điệu sôi nổi tại quảng trường trung tâm công viên.*
 
 ## 3. Đánh giá ưu và nhược điểm thực tế
