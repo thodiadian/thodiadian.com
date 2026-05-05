@@ -6,7 +6,7 @@ categories: [Review, ăn uống sinh viên, căn tin]
 tags: [căn tin IU, đại học quốc tế, ăn gì làng đại học, quán ăn sinh viên, ăn trưa Dĩ An]  
 description: "Review căn tin Đại học Quốc tế (IU) – căn tin lớn nhất Làng Đại học với đa dạng món Âu Á, giá từ 20k, phù hợp cho sinh viên."  
 image:  
-  path: /assets/images/can_tin_IU_lon_nhat.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/can_tin_IU_lon_nhat_zrf4gy.webp  
   alt: "Không gian căn tin ăn uống cho sinh viên"  
 ---
 
@@ -23,7 +23,7 @@ Nếu bạn đang thắc mắc **ăn gì trong Làng Đại học mà vừa rẻ
 Đại học quốc tế chắc chắn là có căn tin lớn nhất cả làng đại học với diện tích lên đến 1600m².  
 Căn tin không chỉ có ghế ngồi bên trong mà còn có ghế ngồi ngoài trời, có bóng râm, rất thông thoáng và không bị ngộp hay nóng hầm
 
-![Không gian ăn uống sinh viên](/assets/images/can_tin_IU_lon_nhat.webp)  
+![Không gian ăn uống sinh viên](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/can_tin_IU_lon_nhat_zrf4gy.webp)  
 *Không gian ăn uống lớn rộng rãi*
 
 
@@ -43,7 +43,7 @@ Một điểm cộng lớn là **mức giá linh hoạt**:
 - Từ **50k+**: món “xịn” hơn  
 
 👉 Phù hợp với mọi mức ngân sách của sinh viên.
-![Một quán bán cơm sinh viên](/assets/images/quan_com_can_tin_IU_sinh_vien.webp)  
+![Một quán bán cơm sinh viên](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/quan_com_can_tin_IU_sinh_vien_j2tzh5.webp)  
 *Một hãng bán cơm châu Á sinh viên*
 
 

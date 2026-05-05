@@ -6,7 +6,7 @@ categories: [Review, Cà phê, Bánh]
 tags: [peony coffee and bakery, cafe dĩ an, bánh dĩ an, quán cà phê, cơm dĩ an]
 description: "Khám phá Peony Coffee and Bakery Dĩ An - quán cà phê xinh đẹp với không gian ấm cúng, cà phê thơm ngon và bánh tươi nướng hàng ngày. Chi tiết menu, giá cả và kinh nghiệm."
 image:
-  path: /assets/images/peony_coffee_bakery-1000-630.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/peony_coffee_bakery-1000-630_ds7nne.jpg
   alt: "Peony Coffee and Bakery Dĩ An - quán cà phê xinh đẹp"
 ---
 
@@ -24,7 +24,7 @@ Peony Coffee and Bakery là một quán cà phê kết hợp tiệm bánh mỳ, 
 * **📞 Số điện thoại:** [Cập nhật].
 * **💻 Tiếp nhận đặt bánh trước:** Có sẵn dịch vụ đặt bánh qua điện thoại hoặc trực tiếp.
 
-![Peony Coffee and Bakery - Không gian bên ngoài](/assets/images/peony_coffee_bakery-1000-630.jpg)
+![Peony Coffee and Bakery - Không gian bên ngoài](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/peony_coffee_bakery-1000-630_ds7nne.jpg)
 *Diện mạo xinh đẹp của Peony Coffee and Bakery*
 
 ## 2. Không Gian Và Atmosphere
@@ -100,7 +100,7 @@ Menu cà phê tại Peony được thiết kế để đáp ứng nhu cầu củ
 * **Ổ cắm điện:** Có một số chỗ có ổ cắm để sạc laptop hoặc điện thoại.
 * **Không gian yên tĩnh:** Quán không quá ồn ào, phù hợp cho những ai muốn tập trung làm việc.
 
-![Peony Coffee and Bakery - Menu](/assets/images/peony_caffee_bakery_menu-900-630.jpg)
+![Peony Coffee and Bakery - Menu](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/peony_caffee_bakery_menu-900-630_wsiciv.jpg)
 *Các loại bánh tươi ngon tại Peony*
 
 ## 6. Đánh Giá Ưu Và Nhược Điểm

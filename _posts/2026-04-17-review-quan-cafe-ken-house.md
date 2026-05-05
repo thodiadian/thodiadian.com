@@ -6,7 +6,7 @@ categories: [Review, cà phê, học tập]
 tags: [ken house coffee, cafe học bài Dĩ An, quán cafe gần ký túc xá, cafe yên tĩnh, cafe có máy lạnh]  
 description: "Review Ken House Coffee – quán cafe học bài yên tĩnh gần KTX Làng Đại học, có máy lạnh, wifi mạnh, phù hợp chạy deadline."  
 image:  
-  path: /assets/images/ken_cafe_hoc_bai_thu_gian.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/ken_cafe_hoc_bai_thu_gian_jvtjkw.webp  
   alt: "Hình quán cafe Ken House thư giãn"  
 ---
 
@@ -17,7 +17,7 @@ Bạn đang cần một **quán cafe học bài yên tĩnh gần ký túc xá** 
 
 ## 1. Không gian quán cà phê Ken house có gì đặc biệt ?
 
-![Không gian yên tĩnh Ken cafe](/assets/images/khong_gian_ken_cafe_sang_yen_tinh.webp)  
+![Không gian yên tĩnh Ken cafe](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/khong_gian_ken_cafe_sang_yen_tinh_wlbbm1.webp)  
 *Không gian yên tĩnh tại quán*
 
 ### 1.1.  Khu vực phòng lạnh.
@@ -32,7 +32,7 @@ Quán bán đủ các loại đồ uống từ cà phê, nước ép, sinh tố,
 Tất cả các đồ uống đều được làm rất xịn xò, nguyên liệu chất lượng cao, kỹ thuật làm nước chuyên nghiệp và uống rất ngon.  
 Giá của quán nằm ở phía đắt hơn cho kinh phí của các bạn sinh viên, trung bình là 30k cho các đồ uống. Nhưng có cà phê đen 20k khá rẻ.
 
-![Menu quán Ken cafe cập nhật mới nhất](/assets/images/menu_ken_cafe_ngon_da_dang.webp)
+![Menu quán Ken cafe cập nhật mới nhất](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/menu_ken_cafe_ngon_da_dang_lq16ru.webp)
 
 ## 3. Đánh giá ưu và nhược điểm
 

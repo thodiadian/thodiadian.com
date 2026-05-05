@@ -6,7 +6,7 @@ categories: [Review, Địa điểm]
 tags: [hồ đá làng đại học, địa điểm check in dĩ an, du lịch dĩ an]
 description: "Khám phá Hồ Đá Làng Đại học - địa điểm ngắm hoàng hôn cực đẹp tại Dĩ An. Cập nhật kinh nghiệm check-in an toàn, đường đi và những lưu ý quan trọng cho sinh viên."
 image: 
-  path: /assets/images/ho_da_lang_dai_hoc_2-1200-1100.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/ho_da_lang_dai_hoc_2-1200-1100_seqqtd.jpg
   alt: "Vẻ đẹp thơ mộng của Hồ Đá Làng Đại học Dĩ An lúc hoàng hôn"
 ---
 
@@ -36,7 +36,7 @@ Vào những buổi chiều tà từ 17:00 trở đi, mặt nước hồ phẳng
 Dưới những tán cây xanh mát ven hồ, bạn sẽ bắt gặp rất nhiều nhóm bạn sinh viên ngồi tụ tập hát hò, trò chuyện sau những giờ học căng thẳng. Những cơn gió mát lành thổi từ mặt hồ rộng lớn mang theo hơi nước giúp xua tan đi cái oi bức đặc trưng của khí hậu miền Nam. Đây cũng là nơi lý tưởng cho các buổi picnic nhỏ với bạn bè vào những buổi chiều cuối tuần. Một tấm thảm trải, vài món ăn vặt và những câu chuyện rôm rả sẽ là công thức hoàn hảo cho một buổi chiều thư giãn.
 Không khí tại đây luôn mát mẻ hơn hẳn so với sự ồn ào, khói bụi của phố thị bên ngoài. Nằm cách xa các khu công nghiệp và trục đường giao thông chính, Hồ Đá được bao bọc bởi một vùng đệm cây xanh rộng lớn của Khu đô thị Đại học, tạo nên một "lá phổi xanh" quý giá cho cả khu vực Dĩ An.
 
-![Nhóm sinh viên ngồi hóng gió ven Hồ Đá](/assets/images/ho_da_lang_dai_hoc_1-1200-900.jpg)
+![Nhóm sinh viên ngồi hóng gió ven Hồ Đá](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/ho_da_lang_dai_hoc_1-1200-900_bu3wqs.jpg)
 *Hồ đá vào buổi chiều*
 
 ## 3. Review ưu và nhược điểm thực tế

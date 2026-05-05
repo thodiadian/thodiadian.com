@@ -6,7 +6,7 @@ categories: [Review, Trà sữa, Đồ ăn vặt]
 tags: [yummy tra sua, tra sua di an, mi cay di an, do an vat di an]
 description: "YUMMY Trà sữa Dĩ An tại 476 Nguyễn Tri Phương là thiên đường mì cay, trà sữa và đồ ăn vặt ngon rẻ, không gian đẹp sống ảo. Khám phá ngay menu, giá cả và đánh giá chi tiết từ A đến Z."
 image:
-  path: /assets/images/tra_sua_yummy-1050-1050.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/tra_sua_yummy-1050-1050_fljidp.jpg
   alt: "YUMMY Trà sữa Dĩ An – không gian quán trẻ trung, hiện đại, nhiều góc check-in đẹp"
 ---
 
@@ -40,8 +40,8 @@ Nếu bạn là tín đồ của mì cay thì nhất định không thể bỏ q
 
 YUMMY còn là thiên đường của các món ăn vặt. Thực đơn ăn vặt tại đây rất phong phú, từ các món chiên như cá viên chiên, nem chua rán, khoai tây lắc phô mai cho đến các món ăn vặt đường phố quen thuộc như bánh tráng trộn, bánh tráng nướng... Tất cả đều được chế biến sạch sẽ, đảm bảo vệ sinh an toàn thực phẩm.
 
-![Thực đơn đa dạng trà sữa, mì cay, đồ ăn vặt tại YUMMY Dĩ An](/assets/images/tra_sua_yummy_menu_my_cay-1200-800.jpg)
-![Thực đơn đa dạng trà sữa, mì cay, đồ ăn vặt tại YUMMY Dĩ An](/assets/images/tra_sua_yummy_menu_tra_sua-1200-800.jpg)
+![Thực đơn đa dạng trà sữa, mì cay, đồ ăn vặt tại YUMMY Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/tra_sua_yummy_menu_my_cay-1200-800_d3assu.jpg)
+![Thực đơn đa dạng trà sữa, mì cay, đồ ăn vặt tại YUMMY Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/tra_sua_yummy_menu_tra_sua-1200-800_cdeekl.jpg)
 *Menu đồ uống và đồ ăn vặt phong phú, hấp dẫn tại YUMMY*
 
 💡 **Mẹo nhỏ:** Hãy thử combo “trà sữa + mì cay + bánh tráng trộn”, đây là bộ ba best-seller được nhiều khách hàng yêu thích nhất tại quán. Vừa có đồ uống mát lạnh, vừa có món cay nóng, lại thêm đồ ăn vặt giòn tan, đảm bảo sẽ làm hài lòng cả những thực khách khó tính nhất!

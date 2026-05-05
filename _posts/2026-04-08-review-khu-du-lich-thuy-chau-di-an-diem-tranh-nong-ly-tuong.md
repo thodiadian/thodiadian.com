@@ -6,7 +6,7 @@ categories: [Review, Giải trí]
 tags: [khu du lịch thủy châu, du lịch dĩ an, địa điểm vui chơi bình dương, dã ngoại cuối tuần]
 description: "Khám phá Khu du lịch Thủy Châu Dĩ An với suối nhân tạo cực lớn và hồ bơi hiện đại. Cập nhật giá vé, kinh nghiệm ăn uống và vui chơi mới nhất năm 2026."
 image: 
-  path: /assets/images/khu_du_lich_thuy_chau_2-1200-800.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/khu_du_lich_thuy_chau_2-1200-800_mlk9mc.jpg
   alt: "Toàn cảnh suối nhân tạo tại Khu du lịch Thủy Châu Dĩ An"
 ---
 
@@ -33,7 +33,7 @@ Nằm ngay sát trục đường huyết mạch nối liền Bình Dương và T
 ### 2.2. Hệ thống hồ bơi công viên hiện đại
 Nếu bạn ngại tắm suối với nền đá gồ ghề, hãy ghé qua khu vực hồ bơi công viên rộng hơn 1.200m2. Hồ bơi được thiết kế với nhiều độ sâu khác nhau, phân chia rõ rệt khu vực cho người lớn và trẻ em. Đây là nơi lý tưởng để tổ chức các trò chơi tập thể dưới nước (team building) hoặc đơn giản là thả mình thư giãn trên những chiếc phao sắc màu.
 
-![Khu vực tắm suối tại Thủy Châu](/assets/images/khu_du_lich_thuy_chau_1-660-800.jpg)
+![Khu vực tắm suối tại Thủy Châu](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/khu_du_lich_thuy_chau_1-660-800_nsrq4g.jpg)
 *Khách hàng đang vui chơi tại khu vực suối nhân tạo sạch sẽ và mát mẻ của Thủy Châu*
 
 ## 3. Kinh nghiệm ăn uống và tổ chức dã ngoại (Picnic)

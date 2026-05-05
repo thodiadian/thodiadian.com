@@ -6,7 +6,7 @@ categories: [Review, Y tế, Sức khỏe]
 tags: [bệnh viện dĩ an, phòng khám dĩ an, nhà thuốc dĩ an, khám sức khỏe dĩ an]
 description: "Tổng hợp các cơ sở y tế uy tín tại TP. Dĩ An: bệnh viện đa khoa, phòng khám chuyên khoa, nhà thuốc chất lượng. Thông tin đầy đủ địa chỉ, giá cả, dịch vụ để bạn chăm sóc sức khỏe gia đình một cách tốt nhất."
 image: 
-  path: /assets/images/benh_vien_da_khoa_di_an.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/benh_vien_da_khoa_di_an_su6sau.jpg
   alt: "Khuôn viên Bệnh viện Đa khoa Dĩ An"
 ---
 

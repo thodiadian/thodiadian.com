@@ -6,7 +6,7 @@ categories: [Review, Cà phê]
 tags: [cafe dĩ an, cafe học bài, quan cafe yen tinh]
 description: "Khám phá quán cafe học bài yên tĩnh ở Dĩ An với không gian rộng rãi, wifi mạnh, nhiều ổ cắm điện và giá cả cực kỳ sinh viên."
 image:
-  path: /assets/images/Snow_caffee_di_an-900-640.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Snow_caffee_di_an-900-640_jtwegc.jpg
   alt: "Quán cafe học bài yên tĩnh ở Dĩ An đẹp"
 ---
 
@@ -16,7 +16,7 @@ image:
 
 Ấn tượng đầu tiên khi đến quán là không gian cực kỳ rộng và được bố trí rất khoa học. Quán sử dụng ánh sáng vàng nhẹ kết hợp với ánh sáng tự nhiên, giúp mắt không bị mỏi khi học lâu.
 
-![[Không gian quán cafe học bài yên tĩnh tại Dĩ An]](/assets/images/peony_coffee_bakery-1000-630.jpg)
+![[Không gian quán cafe học bài yên tĩnh tại Dĩ An]](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/peony_coffee_bakery-1000-630_ds7nne.jpg)
 *Chú thích ảnh: Không gian yên tĩnh, phù hợp học tập và làm việc*
 
 Không giống nhiều quán cafe khác thường ồn ào, quán này giữ được sự yên tĩnh nhờ cách bố trí bàn ghế hợp lý và hạn chế tiếng ồn giữa các khu vực.

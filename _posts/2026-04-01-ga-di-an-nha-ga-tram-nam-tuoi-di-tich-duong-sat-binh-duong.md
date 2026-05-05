@@ -6,7 +6,7 @@ categories: [Review, Lịch sử]
 tags: [ga dĩ an, đường sắt việt nam, di tích dĩ an, ga tàu bình dương]
 description: "Khám phá Ga Dĩ An - nhà ga đường sắt quan trọng và lâu đời nhất tại Bình Dương. Tìm hiểu lịch sử xây dựng từ thời Pháp thuộc và các dịch vụ đặt vé tàu hiện nay."
 image: 
-  path: /assets/images/Ga_di_an-1200-720.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Ga_di_an-1200-720_ywtvom.jpg
   alt: "Cổng trước nhà ga Dĩ An"
 ---
 

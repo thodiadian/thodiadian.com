@@ -6,7 +6,7 @@ categories: [Review, Cà phê]
 tags: [cafe dĩ an, cafe học bài, vincom di an]
 description: "Review The Cup Cafe Vincom Dĩ An – quán cafe học bài yên tĩnh, hiện đại, wifi mạnh, cực kỳ phù hợp cho sinh viên."
 image:
-  path: /assets/images/the_cup_cafe_vincom_di_an-1200-750.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/the_cup_cafe_vincom_di_an-1200-750_tfbp6n.jpg
   alt: "The Cup Cafe Vincom Dĩ An không gian học bài"
 ---
 
@@ -16,7 +16,7 @@ image:
 
 Quán nằm trong trung tâm thương mại Vincom nên có lợi thế rất lớn về không gian: sạch sẽ, thoáng mát và được thiết kế hiện đại. Ngay khi bước vào, bạn sẽ cảm nhận được sự gọn gàng và chuyên nghiệp.
 
-![[Không gian The Cup Cafe Dĩ An]](/assets/images/the_cup_cafe_vincom_di_an-1200-750.jpg)
+![[Không gian The Cup Cafe Dĩ An]](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/the_cup_cafe_vincom_di_an-1200-750_tfbp6n.jpg)
 *Không gian hiện đại, nhiều ánh sáng*
 
 Không gian được chia thành nhiều khu vực, giúp bạn dễ dàng chọn chỗ ngồi phù hợp với mục đích học tập hoặc làm việc.
@@ -35,7 +35,7 @@ Quán có nhiều bàn nhỏ dành cho 1–2 người, rất thích hợp để 
 
 Menu tại quán khá đa dạng, bao gồm cà phê, trà trái cây, trà sữa và một số món đá xay.
 
-![[Menu The Cup Cafe]](/assets/images/the_cup_cafe_di_an_menu.webp)
+![[Menu The Cup Cafe]](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/the_cup_cafe_di_an_menu_gjigsu.webp)
 
 💡 **Mẹo nhỏ:** Trà đào cam sả là món được nhiều bạn yêu thích vì dễ uống và giúp tỉnh táo khi học bài.
 

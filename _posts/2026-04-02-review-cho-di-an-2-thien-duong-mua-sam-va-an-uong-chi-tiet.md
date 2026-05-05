@@ -6,7 +6,7 @@ categories: [Review, Địa điểm]
 tags: [chợ dĩ an 2, mua sắm dĩ an, ăn vặt dĩ an, kinh nghiệm đi chợ, chợ bình đường]
 description: "Khám phá Chợ Dĩ An 2 - khu chợ sầm uất bậc nhất Bình Dương với đa dạng thực phẩm, thời trang giá rẻ. Xem ngay review chi tiết và mẹo ăn uống tại đây."
 image: 
-  path: /assets/images/Cho_di_an_2_1200-960.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Cho_di_an_2_1200-960_iemaaq.jpg
   alt: "Toàn cảnh khu vực cổng chính Chợ Dĩ An 2 nhộn nhịp"
 ---
 
@@ -44,7 +44,7 @@ Khu ẩm thực của Chợ Dĩ An 2 chính là nơi giữ chân thực khách l
 - **Bún mắm & Bún riêu:** Những tô bún nóng hổi, đầy ắp topping như tôm, mực, huyết, da heo... với nước dùng được ninh từ xương và mắm đặc trưng miền Tây chắc chắn sẽ làm bạn hài lòng.
 - **Thế giới đồ ăn vặt:** Ngay khu vực cổng chợ, bạn sẽ bắt gặp hàng loạt xe đẩy bán bánh tráng nướng, xiên que, hột vịt lộn, chè Thái và các loại nước giải khát. Mức giá cực kỳ "học sinh - sinh viên", chỉ dao động từ 10.000đ - 25.000đ mỗi món.
 
-![Món ngon tại chợ Dĩ An 2](/assets/images/Cho_di_an_2-800-640.jpg)
+![Món ngon tại chợ Dĩ An 2](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Cho_di_an_2-800-640_eckdhg.jpg)
 *Các món ăn vặt hấp dẫn và đa dạng tại khu ẩm thực Chợ Dĩ An 2*
 
 ## 4. Đánh giá ưu và nhược điểm thực tế

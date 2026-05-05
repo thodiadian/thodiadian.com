@@ -6,7 +6,7 @@ categories: [Review, Cà phê, Học bài]
 tags: [kohchin cafe, cafe di an, quan cafe hoc bài, cafe yen tinh di an]
 description: "Kohchin Cafe Dĩ An tọa lạc tại hẻm 94 Nguyễn An Ninh, là quán nhỏ yên tĩnh với không gian chill, đồ uống ngon giá hạt dẻ. Khám phá ngay địa chỉ, menu và những đánh giá chi tiết về quán cafe học bài lý tưởng tại Dĩ An."
 image:
-  path: /assets/images/caffee_kohchin-1200-800.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/caffee_kohchin-1200-800_ylwvva.jpg
   alt: "Kohchin Cafe Dĩ An – không gian quán nhỏ yên tĩnh, chill, thích hợp học bài và làm việc"
 ---
 
