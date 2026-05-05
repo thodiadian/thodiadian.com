@@ -10,3 +10,17 @@
     {% endif %}
   {% endfor %}
 </ul>
+<script>
+  (function(){
+    function setLazy(){
+      document.querySelectorAll('img:not([loading])').forEach(function(img){
+        try{ img.setAttribute('loading','lazy'); }catch(e){}
+      });
+    }
+    if (typeof document !== 'undefined') {
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', setLazy);
+      } else { setLazy(); }
+    }
+  })();
+</script>
