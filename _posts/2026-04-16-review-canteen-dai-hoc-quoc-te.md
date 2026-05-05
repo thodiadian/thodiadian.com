@@ -1,16 +1,20 @@
 ---  
 layout: post  
-title: "Review căn tin đại học quốc tế - căn tin lớn nhất làng đại học"  
+title: "Review căn tin Đại học Quốc tế (IU): Căn tin lớn nhất Làng Đại học – ăn gì cũng có"  
 date: 2026-04-16 08:00:00 +0700  
-categories: [Review, ăn uống, ăn uống sinh viên]   
-tags: [ăn trưa, làng đại học]  
-description: "Review căn tin đại học quốc tế - căn tin làng đại học lớn nhất, ăn đồ châu âu châu á"  
+categories: [Review, ăn uống sinh viên, căn tin]   
+tags: [căn tin IU, đại học quốc tế, ăn gì làng đại học, quán ăn sinh viên, ăn trưa Dĩ An]  
+description: "Review căn tin Đại học Quốc tế (IU) – căn tin lớn nhất Làng Đại học với đa dạng món Âu Á, giá từ 20k, phù hợp cho sinh viên."  
 image:  
   path: /assets/images/can_tin_IU_lon_nhat.webp  
   alt: "Không gian căn tin ăn uống cho sinh viên"  
 ---
 
-***Căn tin ăn uống sinh viên lớn nhất làng đại học** đặc biệt như thế nào? Hãy cùng team thổ địa Dĩ An review khám phá*
+# Review căn tin Đại học Quốc tế (IU) – Căn tin lớn nhất Làng Đại học có gì?
+
+Nếu bạn đang thắc mắc **ăn gì trong Làng Đại học mà vừa rẻ vừa đa dạng**, thì **căn tin Đại học Quốc tế (IU)** chắc chắn là một trong những lựa chọn tốt nhất.  
+
+ Đây được xem là **căn tin sinh viên lớn nhất khu Làng Đại học Dĩ An – Thủ Đức** với hàng loạt món ăn từ **châu Á đến châu Âu**.
 
 
 
@@ -32,22 +36,29 @@ Sau khi ăn xong, bạn có thể gọi ngay thức uống ở đây từ cà ph
 💡 **Mẹo nhỏ:** Hãy thử gọi món cơm gà sốt bơ, đây là một trong những món ngon nhất ở đây đấy.
 
 ## 3. Giá cả phù hợp cho sinh viên.
-Vì có nhiều hãng bán đồ ở đây, sinh viên có nhiều sự lựa chọn đồ ăn hợp với kinh phí của mình.  
-Từ 20k bạn có thể gọi dĩa cơm hay mì đơn giản hoặc tiêu 45k cho những món xịn xò hơn và khẩu phần ăn luôn đảm bảo bạn sẽ rời căn tin no bụng.  
+Một điểm cộng lớn là **mức giá linh hoạt**:
+
+- Từ **20.000đ**: món cơ bản  
+- Khoảng **30k – 45k**: ăn no, chất lượng tốt  
+- Từ **50k+**: món “xịn” hơn  
+
+👉 Phù hợp với mọi mức ngân sách của sinh viên.
 ![Một quán bán cơm sinh viên](/assets/images/quan_com_can_tin_IU_sinh_vien.webp)  
 *Một hãng bán cơm châu Á sinh viên*
 
 
 ## 4. Đánh giá ưu điểm nhược điểm
-**Ưu điểm:**  
-- Đa dạng đồ ăn từ các văn hóa khác nhau.  
-- Không gian ăn uống rộng rãi, thoáng khí.  
-- Giá ăn uống rẻ, chỉ từ 20k.  
-- Có chỗ giữ xe có bảo vệ.
+###  Ưu điểm
 
-**Nhược điểm:**  
-- Đi giữa trưa trong ngày có thể khá đông.  
-- Phải tự dọn dẹp sau khi ăn.
+- Đa dạng món ăn (Âu – Á)  
+- Không gian rộng, thoáng  
+- Giá hợp lý cho sinh viên  
+- Có bãi giữ xe, an toàn  
+
+###  Nhược điểm
+
+- Giờ trưa rất đông  
+- Phải tự dọn khay sau khi ăn 
 
 ## 5.Thông tin liên hệ & Bản đồ
 

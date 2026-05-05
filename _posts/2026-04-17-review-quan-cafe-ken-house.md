@@ -1,16 +1,19 @@
 ---  
 layout: post  
-title: "Review quán cafe Ken house - quán cafe chill thư giãn"  
+title: "Review Ken House Coffee: Quán cafe học bài yên tĩnh gần KTX Làng Đại học"  
 date: 2026-04-17 08:00:00 +0700  
-categories: [Review, Cà phê]   
-tags: [cafe dĩ an, cafe học bài, gần ký túc xá]  
-description: "[Review quán cafe Ken house - quán cafe chill thư giãn, học bài có máy lạnh]"  
+categories: [Review, cà phê, học tập]   
+tags: [ken house coffee, cafe học bài Dĩ An, quán cafe gần ký túc xá, cafe yên tĩnh, cafe có máy lạnh]  
+description: "Review Ken House Coffee – quán cafe học bài yên tĩnh gần KTX Làng Đại học, có máy lạnh, wifi mạnh, phù hợp chạy deadline."  
 image:  
   path: /assets/images/ken_cafe_hoc_bai_thu_gian.webp  
   alt: "Hình quán cafe Ken House thư giãn"  
 ---
 
-*Bạn đang tìm kiếm một **quán cafe học bài yên tĩnh gần ký túc xá** để chạy deadline? Hãy cùng Thổ Địa Dĩ An khám phá quán Ken House coffee*
+# Review Ken House Coffee – Quán cafe học bài yên tĩnh gần KTX Làng Đại học
+
+Bạn đang cần một **quán cafe học bài yên tĩnh gần ký túc xá** để chạy deadline hoặc làm việc?  
+**Ken House Coffee** là một trong những quán cafe phù hợp nhất cho sinh viên khu **Làng Đại học Dĩ An**.
 
 ## 1. Không gian quán cà phê Ken house có gì đặc biệt ?
 
@@ -41,9 +44,19 @@ Giá của quán nằm ở phía đắt hơn cho kinh phí của các bạn sinh
 
 **Nhược điểm:**  
 - Ngồi ngoài trời hay có muỗi.
-- Chỗ để xe trên vỉa hè hơi chật.
+- Chỗ để xe trên vỉa hè hơi chật.  
 
-## 4.Thông tin liên hệ & Bản đồ
+## 4. Có nên học bài tại Ken House Coffee không?
+
+**Rất nên**, nếu bạn cần:
+
+- Quán cafe **yên tĩnh gần ký túc xá**  
+- Có **máy lạnh + wifi mạnh + ổ cắm điện**  
+- Không gian phù hợp để học và làm việc  
+
+Đây là một trong những **quán cafe học bài tốt ở khu Làng Đại học**.
+
+## 5.Thông tin liên hệ & Bản đồ
 
 - **📍 Địa chỉ:** 62 Nguyễn Bỉnh Khiêm, khu phố Tân Lập, Đông Hòa, Hồ Chí Minh, Việt Nam
 - **⏰ Giờ mở cửa:** 06:30 - 22:00  
