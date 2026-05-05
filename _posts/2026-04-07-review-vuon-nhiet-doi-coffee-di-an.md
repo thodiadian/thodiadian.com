@@ -3,7 +3,7 @@ layout: post
 title: "Review Vườn Nhiệt Đới Coffee Dĩ An – Ốc đảo xanh yên tĩnh cho tâm hồn"
 date: 2026-04-07 09:00:00 +0700
 categories: [Review, Cà phê] 
-tags: [cafe dĩ an, cafe san vuon, cafe yen tinh, cafe hoc bai]
+tags: [cafe dĩ an, cafe san vuon di an, cafe yen tinh di an, cafe hoc bai di an]
 description: "Review chi tiết Vườn Nhiệt Đới Coffee Dĩ An – Một quán cafe sân vườn xanh mướt, yên tĩnh với mức giá cực kỳ sinh viên, lý tưởng để học bài và thư giãn."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/vuon_nhiet_doi_coffee_1-980-580_xpjnxx.jpg

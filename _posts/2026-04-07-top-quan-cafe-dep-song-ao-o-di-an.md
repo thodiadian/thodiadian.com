@@ -3,7 +3,7 @@ layout: post
 title: "Top 5 quán cafe học bài yên tĩnh ở Dĩ An đáng thử nhất"
 date: 2026-04-07 10:00:00 +0700
 categories: [Review, Cà phê] 
-tags: [cafe dĩ an, cafe học bài, quan cafe yen tinh]
+tags: [cafe dĩ an, cafe học bài dĩ an, quán cafe yên tĩnh dĩ an]
 description: "Khám phá top 5 quán cafe học bài yên tĩnh ở Dĩ An với không gian đẹp, wifi mạnh, nhiều ổ cắm và giá cực kỳ sinh viên."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/the_cup_cafe_vincom_di_an-1200-750_tfbp6n.jpg

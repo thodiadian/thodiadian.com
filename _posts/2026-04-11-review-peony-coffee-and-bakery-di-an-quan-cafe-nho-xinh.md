@@ -3,7 +3,7 @@ layout: post
 title: "Review Peony Coffee and Bakery Dĩ An – Quán Cà Phê Nhỏ Xinh Với Bánh Tươi Ngon"
 date: 2026-04-11 08:00:00 +0700
 categories: [Review, Cà phê, Bánh]
-tags: [peony coffee and bakery, cafe dĩ an, bánh dĩ an, quán cà phê, cơm dĩ an]
+tags: [peony coffee and bakery, cafe dĩ an, quán cà phê dĩ an, bánh ngọt dĩ an, bakery dĩ an]
 description: "Khám phá Peony Coffee and Bakery Dĩ An - quán cà phê xinh đẹp với không gian ấm cúng, cà phê thơm ngon và bánh tươi nướng hàng ngày. Chi tiết menu, giá cả và kinh nghiệm."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/peony_coffee_bakery-1000-630_ds7nne.jpg

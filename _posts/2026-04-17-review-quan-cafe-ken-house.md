@@ -3,7 +3,7 @@ layout: post
 title: "Review Ken House Coffee: Quán cafe học bài yên tĩnh gần KTX Làng Đại học"  
 date: 2026-04-17 08:00:00 +0700  
 categories: [Review, cà phê, học tập]   
-tags: [ken house coffee, cafe học bài Dĩ An, quán cafe gần ký túc xá, cafe yên tĩnh, cafe có máy lạnh]  
+tags: [ken house coffee, cafe học bài dĩ an, quán cafe gần ký túc xá dĩ an, cafe yên tĩnh dĩ an, cafe máy lạnh dĩ an]
 description: "Review Ken House Coffee – quán cafe học bài yên tĩnh gần KTX Làng Đại học, có máy lạnh, wifi mạnh, phù hợp chạy deadline."  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/ken_cafe_hoc_bai_thu_gian_jvtjkw.webp  
