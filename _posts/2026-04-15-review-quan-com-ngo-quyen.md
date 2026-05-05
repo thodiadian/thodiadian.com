@@ -3,7 +3,7 @@ layout: post
 title: "Review quán cơm Ngô Quyền 3 Làng Đại học: Ngon, bổ, rẻ cho sinh viên"  
 date: 2026-04-15 08:00:00 +0700  
 categories: [Review, cơm sáng, cơm trưa, cơm sinh viên, cơm tối]   
-tags: [ăn uống, cơm, làng đại học]  
+tags: [cơm tấm ngô quyền ở dĩ an, cơm tấm dĩ an, quán cơm dĩ an, làng đại học dĩ an]
 description: "Review quán cơm tấm sinh viên Ngô Quyền - quán cơm ngô quyền ngon nhất gần làng đại học"  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/quan_com_ngo_quyen_ngon_nhat_oaqq3z.webp  

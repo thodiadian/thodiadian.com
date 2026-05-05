@@ -3,7 +3,7 @@ layout: post
 title: "Review The Cup Cafe Vincom Dĩ An – Quán cafe học bài lý tưởng"
 date: 2026-04-07 08:00:00 +0700
 categories: [Review, Cà phê] 
-tags: [cafe dĩ an, cafe học bài, vincom di an]
+tags: [cafe dĩ an, cafe học bài dĩ an, vincom dĩ an, quán cafe dĩ an]
 description: "Review The Cup Cafe Vincom Dĩ An – quán cafe học bài yên tĩnh, hiện đại, wifi mạnh, cực kỳ phù hợp cho sinh viên."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/the_cup_cafe_vincom_di_an-1200-750_tfbp6n.jpg

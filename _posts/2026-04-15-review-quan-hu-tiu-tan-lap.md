@@ -3,7 +3,7 @@ layout: post
 title: "Review quán hủ tiếu 76 Làng Đại học: Quán ăn ngon – rẻ chỉ từ 25k"  
 date: 2026-04-15 08:00:00 +0700  
 categories: [Review, hủ tiếu, ăn uống sinh viên]   
-tags: [hủ tiếu 76, quán ăn làng đại học, hủ tiếu Dĩ An, ăn tối sinh viên, món nước giá rẻ]  
+tags: [hủ tiếu 76, hủ tiếu dĩ an, quán hủ tiếu dĩ an, ăn tối dĩ an, món nước dĩ an]
 description: "Review quán hủ tiếu 76 gần Làng Đại học Dĩ An: nước dùng ngon, topping đa dạng, giá chỉ từ 25k – lựa chọn lý tưởng cho sinh viên."  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/hu_tieu_76_ngon_re_tekwsz.webp 

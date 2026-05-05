@@ -3,7 +3,7 @@ layout: post
 title: "Review Chùa Châu Thới Dĩ An: Ngôi Cổ Tự Trên Núi Tuyệt Đẹp"
 date: 2026-04-06 08:00:00 +0700
 categories: [Review, Tâm linh]
-tags: [chùa châu thới, du lịch dĩ an, địa điểm tâm linh bình dương]
+tags: [chùa châu thới dĩ an, du lịch dĩ an, địa điểm tâm linh bình dương]
 description: "Khám phá Chùa Châu Thới Dĩ An - ngôi chùa cổ nhất Bình Dương tọa lạc trên đỉnh núi cao. Xem ngay hướng dẫn đường đi và kiến trúc độc đáo tại đây."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Chua_chau_thoi-1200-960_zemtll.jpg

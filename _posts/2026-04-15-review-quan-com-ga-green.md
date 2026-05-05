@@ -3,7 +3,7 @@ layout: post
 title: "Review Cơm Gà Green Làng Đại Học | Cơm Gà Xối Mỡ Ngon Rẻ Sinh Viên"  
 date: 2026-04-15 08:00:00 +0700  
 categories: [Review, Ẩm thực, Cơm gà, Sinh viên]   
-tags: [cơm gà green, cơm gà làng đại học, cơm gà xối mỡ, review quán ăn]  
+tags: [cơm gà green, cơm gà dĩ an, quán cơm gà dĩ an, cơm gà xối mỡ dĩ an, làng đại học dĩ an]
 description: "Review cơm gà xối mỡ làng đại học sinh viên - cơm gà sốt cay ngon rẻ cho sinh viên"  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/quan_com_ga_green_zkybvj.webp 
