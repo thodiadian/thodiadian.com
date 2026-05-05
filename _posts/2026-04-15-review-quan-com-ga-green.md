@@ -7,7 +7,7 @@ tags: [cơm gà green, cơm gà làng đại học, cơm gà xối mỡ, review 
 description: "Review cơm gà xối mỡ làng đại học sinh viên - cơm gà sốt cay ngon rẻ cho sinh viên"  
 image:  
   path: /assets/images/quan_com_ga_green.webp 
-  alt: "Cơm gà Green Làng Đại Học - cơm gà xối mỡ giá rẻ cho sinh viên""  
+  alt: "Cơm gà Green Làng Đại Học - cơm gà xối mỡ giá rẻ cho sinh viên"  
 ---
 
 *Bạn đang thèm **ăn cơm gà chiên ngon rẻ** và **gần làng đại học**? Quán **cơm gà Green Làng Đại Học** là nơi hoàn hảo để thưởng thức các dĩa **cơm gà chiên, gà sốt cay**.*

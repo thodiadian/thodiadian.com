@@ -10,9 +10,11 @@ image:
   alt: "Ảnh quán cơm tấm sinh viên Ngô Quyền 3"  
 ---
 
-*Quanh **làng đại học** có vô vàng quán **cơm tấm cùng tên Ngô Quyền**, nhưng quán nào là ngon nhất ?*
+Quanh **làng đại học**, có rất nhiều quán **cơm tấm Ngô Quyền**, nhưng đâu mới là quán ngon nhất, đáng ăn nhất?  
+Trong bài này, mình sẽ review chi tiết **Cơm Tấm Ngô Quyền 3** – một lựa chọn khá cân bằng giữa giá, chất lượng và khẩu phần dành cho sinh viên.
 
-## 1. Không gian quán cơm 
+
+## 1. Không gian quán cơm tấm Ngô Quyền tại Tân Lập
 
 Quán cơm có không gian trong nhà rộng rãi, nhìn ra ngoài đường nên rất thông thoáng, không bị ngộp mùi khói nấu nướng, bàn ghế chứa được cỡ 20-30 người, nên bạn tha hồ rủ rê bạn bè đi ăn chung cho vui.  
 Nhưng mà quán không có chỗ đậu xe nên phải đậu ở vỉa hè trước quán, giữa trưa cũng khá là nắng nên nếu bạn học trong làng đại học mà qua đây ăn thì nên đi bộ nếu ngại để xe nắng nhé.  
