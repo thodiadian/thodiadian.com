@@ -6,7 +6,7 @@ categories: [Review, Giải trí]
 tags: [công viên dĩ an, vui chơi ngoài trời, giải trí dĩ an, công viên hành chính]
 description: "Khám phá Công viên hành chính Dĩ An - điểm đến lý tưởng cho các hoạt động thể thao, dã ngoại và vui chơi trẻ em. BẮT BUỘC có chứa từ khóa chính để thu hút người click trên Google"
 image: 
-  path: /assets/images/Cong_vien_hanh_chinh_di_an_1200-960.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Cong_vien_hanh_chinh_di_an_1200-960_cwpc1a.jpg
   alt: "[Không gian thoáng đãng tại công viên hành chính Dĩ An vào buổi chiều]"
 ---
 
