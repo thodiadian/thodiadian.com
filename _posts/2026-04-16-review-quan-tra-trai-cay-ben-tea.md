@@ -2,11 +2,11 @@
 layout: post  
 title: "Review trà trái cây Ben Tea Dĩ An: Quán nước tươi ngon, giá hợp lý gần Làng Đại học"  
 date: 2026-04-16 08:00:00 +0700  
-categories: [Review, Ẩm thực, trà trái cây]   
-tags: [ben tea, trà trái cây Dĩ An, quán nước làng đại học, trà sữa sinh viên, đồ uống mát lạnh]  
+categories: [Review, Cà Phê, Ẩm thực]   
+tags: [ben tea, trà trái cây dĩ an, quán nước dĩ an, trà sữa dĩ an, đồ uống dĩ an]
 description: "Review Ben Tea Dĩ An – quán trà trái cây tươi, trà sữa, sữa chua ngon gần Làng Đại học, giá từ 25k, phù hợp sinh viên."  
 image:  
-  path: /assets/images/tra_trai_cay_ben_tea.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/tra_trai_cay_ben_tea_nymp9r.webp  
   alt: "Quán trà trái cây Ben tea siêu ngon"  
 ---
 
@@ -18,7 +18,7 @@ Nếu bạn đang tìm một quán **trà trái cây tươi ở Dĩ An** để g
 
 ## 1.Trà trái cây Ben tea có gì đặc biệt ?
 
-![[Hình ảnh quán trà trái cây tươi ngon Ben]](/assets/images/tra_trai_cay_ben_tea.webp)  
+![[Hình ảnh quán trà trái cây tươi ngon Ben]](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/tra_trai_cay_ben_tea_nymp9r.webp)  
 *Chú thích ảnh:không gian quán chill, im ắng*
 
 ### 1.1. Đủ các loại trà trái cây tươi
@@ -45,7 +45,7 @@ Chỉ từ 25k là bạn có thể mua một ly nước tươi ngon mát mẻ, d
 Nhưng theo tác giả thì đây là giá khá trạnh canh với các hàng báng khác nhưng chất lượng thì rất cao, nên nếu bạn thèm một ly trà trái cây tươi ngon thì nên đến tiệm trà Ben.  
 Nếu bạn ưu tiên **đồ uống ngon – nguyên liệu tươi**, thì mức giá này là hợp lý.
 
-![[Menu quán cập nhật mới nhất]](/assets/images/menu_tra_trai_cay_ben_tea.webp)  
+![[Menu quán cập nhật mới nhất]](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/menu_tra_trai_cay_ben_tea_etnaim.webp)  
 *Các đồ uống ngon của quán*  
 ## 4. Đánh giá quán Ben Tea
 
