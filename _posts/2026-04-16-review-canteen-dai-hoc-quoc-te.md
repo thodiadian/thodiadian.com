@@ -2,7 +2,7 @@
 layout: post  
 title: "Review căn tin Đại học Quốc tế (IU): Căn tin lớn nhất Làng Đại học – ăn gì cũng có"  
 date: 2026-04-16 08:00:00 +0700  
-categories: [Review, ăn uống sinh viên, căn tin]   
+categories: [Review, Ẩm thực]   
 tags: [căn tin IU, căn tin làng đại học dĩ an, quán ăn sinh viên dĩ an, ăn trưa dĩ an, đại học quốc tế dĩ an]
 description: "Review căn tin Đại học Quốc tế (IU) – căn tin lớn nhất Làng Đại học với đa dạng món Âu Á, giá từ 20k, phù hợp cho sinh viên."  
 image:  
