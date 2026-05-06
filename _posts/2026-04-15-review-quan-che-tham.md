@@ -2,11 +2,11 @@
 layout: post  
 title: "Review quán chè Thắm Dĩ An – quán ăn vặt đêm ngon rẻ cho sinh viên"  
 date: 2026-04-05 08:00:00 +0700  
-categories: [Review, chè, ăn vặt]   
-tags: [quán chè dĩ an, ăn vặt đêm dĩ an, chè ngon bình dương, chè sinh viên dĩ an]
+categories: [Review, Chè, ăn vặt]   
+tags: [quán chè Dĩ An, ăn vặt đêm Dĩ An, chè ngon Bình Dương, chè sinh viên]  
 description: "Review quán chè Thắm Dĩ An – quán ăn vặt đêm ngon rẻ, mở cửa đến 2h sáng, phù hợp sinh viên và tụ tập bạn bè."  
 image:  
-  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/che_an_vat_tham_thumbnail_dkur1t.webp  
+  path: /assets/images/che_an_vat_tham_thumbnail.webp  
   alt: "Quán chè ăn vặt đêm chè Thắm"  
 ---
 
@@ -18,7 +18,7 @@ Quán chè Thắm được bố trí ngay trước sân nhà, hướng ra mặt 
 
 Bàn ghế được sắp xếp theo từng cụm nhỏ, rất phù hợp để vừa ăn vừa trò chuyện. Vào buổi tối, đặc biệt là từ 8h trở đi, quán khá đông vì đây là một trong những **quán ăn vặt đêm ở Dĩ An** được nhiều người biết đến.
 
-![Quán chè Thắm sinh viên về đêm](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/quan_che_an_vat_sinh_vien_tham_tvepby.webp)  
+![Quán chè Thắm sinh viên về đêm](/assets/images/quan_che_an_vat_sinh_vien_tham.webp)  
 *Ảnh quán chè sáng sủa, mở về đêm*
 
 ## 2.Menu quán chè Thắm có gì?
@@ -42,7 +42,7 @@ Ngoài chè, quán còn bán các món ăn vặt mặn như:
 - Hột gà nướng  
 
 Các món này có giá khá rẻ, dễ ăn và đặc biệt hợp khi ăn kèm với chè. Vị mặn của đồ chiên giúp cân bằng lại vị ngọt, tạo cảm giác không bị ngán.  
-![Menu quán chè Thắm siêu rẻ](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/menu_che_tham_ngon_re_dugvzj.webp)
+![Menu quán chè Thắm siêu rẻ](/assets/images/menu_che_tham_ngon_re.webp)
 
 💡 **Mẹo nhỏ:** Hãy thử gọi món chè sầu riêng, đây là món best-seller của quán đấy!
 
