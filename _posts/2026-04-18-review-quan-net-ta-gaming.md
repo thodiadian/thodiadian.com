@@ -2,7 +2,7 @@
 layout: post  
 title: "Review T.A Gaming Dĩ An: Quán net cấu hình mạnh, máy lạnh gần KTX Làng Đại học"  
 date: 2026-04-18 08:00:00 +0700  
-categories: [Review, giải trí, gaming]   
+categories: [Review, Giải trí]   
 tags: [ta gaming dĩ an, quán net dĩ an, net gần ký túc xá dĩ an, gaming cafe dĩ an, chơi game sinh viên dĩ an]
 description: "Review T.A Gaming Dĩ An – quán net cấu hình mạnh, ghế êm, máy lạnh 24/7, gần ký túc xá Làng Đại học, giá từ 8k/giờ."  
 image:  
