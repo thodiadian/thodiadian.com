@@ -2,7 +2,7 @@
 layout: post  
 title: "Review trà trái cây Ben Tea Dĩ An: Quán nước tươi ngon, giá hợp lý gần Làng Đại học"  
 date: 2026-04-16 08:00:00 +0700  
-categories: [Review, Cà Phê, Ẩm thực]   
+categories: [Review, Cà phê, Trà sữa]   
 tags: [ben tea, trà trái cây dĩ an, quán nước dĩ an, trà sữa dĩ an, đồ uống dĩ an]
 description: "Review Ben Tea Dĩ An – quán trà trái cây tươi, trà sữa, sữa chua ngon gần Làng Đại học, giá từ 25k, phù hợp sinh viên."  
 image:  
