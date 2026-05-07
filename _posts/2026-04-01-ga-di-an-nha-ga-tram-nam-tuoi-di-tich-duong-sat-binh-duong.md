@@ -2,7 +2,7 @@
 layout: post
 title: "Khám Phá Ga Dĩ An: Nhà Ga Cổ Kính Hơn 100 Năm Tuổi Tại Bình Dương"
 date: 2026-04-10 09:00:00 +0700
-categories: [Review, Lịch sử]
+categories: [Review, Địa điểm]
 tags: [ga dĩ an, đường sắt việt nam, di tích dĩ an, ga tàu di an bình dương]
 description: "Khám phá Ga Dĩ An - nhà ga đường sắt quan trọng và lâu đời nhất tại Bình Dương. Tìm hiểu lịch sử xây dựng từ thời Pháp thuộc và các dịch vụ đặt vé tàu hiện nay."
 image: 

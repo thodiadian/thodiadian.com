@@ -3,7 +3,7 @@ layout: post
 title: "Vui Chơi Tại Công Viên Hành Chính Dĩ An: Lá Phổi Xanh Của Thành Phố"
 date: 2026-04-11 17:00:00 +0700
 categories: [Review, Giải trí]
-tags: [công viên dĩ an, vui chơi ngoài trời o di an, giải trí dĩ an, công viên hành chính di an]
+tags: [công viên dĩ an, giải trí dĩ an, công viên hành chính dĩ an]
 description: "Khám phá Công viên hành chính Dĩ An - điểm đến lý tưởng cho các hoạt động thể thao, dã ngoại và vui chơi trẻ em. BẮT BUỘC có chứa từ khóa chính để thu hút người click trên Google"
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Cong_vien_hanh_chinh_di_an_1200-960_cwpc1a.jpg
