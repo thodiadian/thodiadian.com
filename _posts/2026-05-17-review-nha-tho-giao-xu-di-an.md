@@ -119,7 +119,7 @@ Ngoài ra:
 
  Đây cũng là thời điểm:
 - Khu vực trung tâm Dĩ An trở nên sôi động hơn  
-- Nhiều người đến tham quan và chụp ảnh.
+- Nhiều người đến tham quan và chụp ảnh.  
 ![Nhà thờ Giáo xứ Dĩ An vào Giáng Sinh](/assets/images/le_giang_sinh_nha_tho_giao_xu_di_an.webp)   
 *Lễ Giáng Sinh ở giáo xứ Dĩ An*
 ## 6. Đánh giá Nhà thờ Giáo xứ Dĩ An
