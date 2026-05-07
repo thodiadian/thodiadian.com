@@ -2,7 +2,7 @@
 layout: post  
 title: "Ăn chơi gì ở Nhà Văn hóa Sinh viên Làng Đại học?"  
 date: 2026-04-16 08:00:00 +0700  
-categories: [Review, Giải trí, Thể thao, Thời trang, Địa điểm]   
+categories: [Review, Giải trí, Thể thao, Địa điểm]   
 tags: [nhà văn hóa sinh viên, giải trí sinh viên dĩ an, chợ đêm dĩ an, xem phim dĩ an, làng đại học dĩ an]
 description: "Review Nhà Văn hóa Sinh viên Làng Đại học: xem phim, đá bóng, gym, bowling và chợ đêm – địa điểm giải trí giá rẻ cho sinh viên."  
 image:  
