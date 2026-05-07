@@ -2,7 +2,7 @@
 layout: post
 title: "Showroom Giá Kho Dĩ An: Thiên Đường Nội Thất Giá Tốt Bậc Nhất"
 date: 2026-04-27 10:00:00 +0700
-categories: [Review, Mua Sắm]
+categories: [Review, Mua sắm]
 tags: [noi that di an]
 description: "Khám phá Showroom Giá Kho Dĩ An - địa chỉ mua nội thất được yêu thích tại Bình Dương với đa dạng mẫu mã sofa, giường tủ, bàn ghế và mức giá cạnh tranh nhất thị trường."
 image: 
