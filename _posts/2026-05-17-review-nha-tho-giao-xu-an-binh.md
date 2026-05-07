@@ -41,7 +41,7 @@ Từ năm 2002–2005:
 Công trình hiện nay khang trang hơn nhưng vẫn giữ được nét trang nghiêm và gần gũi.
 
 
-![Không gian kỳ phu của nơi cầu nguyện](/assets/images/khong_gian_giao_xu_an_binh.jpg)  
+![Không gian kỳ phu của nơi cầu nguyện](/assets/images/khong_gian_giao_xu_an_binh.webp)  
 *Không gian kỳ phu của nơi cầu nguyện*
 
 
