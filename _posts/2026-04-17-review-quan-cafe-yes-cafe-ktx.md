@@ -3,7 +3,7 @@ layout: post
 title: "Review Yes Cafe KTX: Quán cafe học bài + study box giá rẻ gần Làng Đại học"  
 date: 2026-04-17 08:00:00 +0700  
 categories: [Review, Cà phê, Trà sữa]   
-tags: [yes cafe, cafe học bài dĩ an, study box ktx dĩ an, quán cafe yên tĩnh dĩ an, thuê phòng học sinh viên dĩ an]
+tags: [cafe di an, tra sua di an, lang dai hoc di an]
 description: "Review Yes Cafe KTX – quán cafe học bài yên tĩnh, có study box giá rẻ, wifi mạnh, phù hợp sinh viên Làng Đại học."  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/quan_yes_cafe_ahbpy3.webp  

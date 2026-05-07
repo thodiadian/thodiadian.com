@@ -3,7 +3,7 @@ layout: post
 title: "Review Bệnh viện Đa khoa Hoàn Hảo Dĩ An: Địa chỉ khám chữa bệnh uy tín, chất lượng"
 date: 2026-04-15 09:00:00 +0700
 categories: [Review, Y tế]
-tags: [bệnh viện đa khoa hoàn hảo dĩ an, khám chữa bệnh dĩ an, phòng khám đa khoa dĩ an uy tín, bệnh viện tư dĩ an]
+tags: [y te di an, benh vien di an]
 description: "Đánh giá chi tiết Bệnh viện Đa khoa Hoàn Hảo Dĩ An – cơ sở y tế tư nhân uy tín với đầy đủ chuyên khoa, trang thiết bị hiện đại, chi phí hợp lý. Xem ngay review và thông tin liên hệ."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/benh_vien_hoan_hao_di_an_jhghpx.jpg

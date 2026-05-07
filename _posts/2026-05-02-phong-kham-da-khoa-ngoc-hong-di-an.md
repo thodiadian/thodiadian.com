@@ -3,7 +3,7 @@ layout: post
 title: "Review Phòng khám Đa khoa Ngọc Hồng Dĩ An: Địa chỉ uy tín cho sức khỏe gia đình"
 date: 2026-05-06 14:30:00 +0700
 categories: [Review, Y tế]
-tags: [phòng khám dĩ an, khám tổng quát dĩ an, xét nghiệm máu dĩ an, nha khoa dĩ an, tẩy trắng răng dĩ an, khám tai mũi họng dĩ an, khám da liễu dĩ an, tiêm vắc xin HPV dĩ an, khám sức khỏe lái xe dĩ an, phòng khám nam khoa dĩ an]
+tags: [y te di an, benh vien di an]
 description: "Review chi tiết Phòng khám Đa khoa Ngọc Hồng Dĩ An - địa chỉ y tế uy tín với đầy đủ các dịch vụ từ khám tổng quát, xét nghiệm, siêu âm đến các chuyên khoa nha khoa, tai mũi họng, da liễu, nam khoa và tiêm chủng vắc xin HPV."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/phong_kham_da-khoa_ngoc_hong_dian_eeeewu.jpg

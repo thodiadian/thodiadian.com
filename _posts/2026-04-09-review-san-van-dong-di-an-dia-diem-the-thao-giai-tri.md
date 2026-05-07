@@ -3,7 +3,7 @@ layout: post
 title: "Review Sân Vận Động Dĩ An: Điểm Đến Lý Tưởng Cho Các Hoạt Động Thể Thao và Giải Trí"
 date: 2026-04-09 08:00:00 +0700
 categories: [Review, Giải trí, Thể thao]
-tags: [sân vận động dĩ an, sân bóng dĩ an, thể thao dĩ an, giải trí dĩ an, sân chơi dĩ an]
+tags: [the thao di an, giai tri di an]
 description: "Khám phá chi tiết Sân Vận Động Dĩ An - địa điểm thể thao hiện đại, phù hợp cho các hoạt động giải trí, tổ chức sự kiện và rèn luyện sức khỏe tại Bình Dương."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/san_van_dong_di_an-900-660_fcamzi.jpg

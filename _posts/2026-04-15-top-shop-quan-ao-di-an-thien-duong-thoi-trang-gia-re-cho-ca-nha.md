@@ -3,7 +3,7 @@ layout: post
 title: "Top Shop Quần Áo Dĩ An: Thiên Đường Thời Trang Giá Rẻ Cho Cả Nhà"
 date: 2026-04-15 09:00:00 +0700
 categories: [Review, Mua sắm]
-tags: [shop quần áo dĩ an, shop đồ nam dĩ an, shop giày dĩ an, shop quần áo nữ dĩ an, shop mẹ và bé dĩ an]
+tags: [mua sam di an]
 description: "Bỏ túi ngay các shop quần áo Dĩ An chất lượng, xu hướng mới nhất. Từ đồ nam, nữ, giày dép đến mẹ và bé - địa chỉ mua sắm giá hạt dẻ không thể bỏ qua."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/shop_quan_ao-1200-900_b7psc0.jpg

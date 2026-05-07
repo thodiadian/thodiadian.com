@@ -3,7 +3,7 @@ layout: post
 title: "Review quán chè Thắm Dĩ An – quán ăn vặt đêm ngon rẻ cho sinh viên"  
 date: 2026-04-05 08:00:00 +0700  
 categories: [Review, Ẩm thực, Cà phê, Ăn Vặt]   
-tags: [quán chè dĩ an, ăn vặt đêm dĩ an, chè ngon bình dương, chè sinh viên dĩ an]
+tags: [an vat di an, lang dai hoc di an]
 description: "Review quán chè Thắm Dĩ An – quán ăn vặt đêm ngon rẻ, mở cửa đến 2h sáng, phù hợp sinh viên và tụ tập bạn bè."  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/che_an_vat_tham_thumbnail_dkur1t.webp  

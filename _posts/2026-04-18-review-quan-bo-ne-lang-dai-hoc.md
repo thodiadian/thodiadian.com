@@ -3,7 +3,7 @@ layout: post
 title: "Review bò né Chibi Làng Đại học: Bò né ngon, giá rẻ chỉ từ 27k"  
 date: 2026-04-18 08:00:00 +0700  
 categories: [Review, Ẩm thực]   
-tags: [bò né chibi, bò né dĩ an, bò bít tết sinh viên dĩ an, ăn sáng dĩ an, quán ăn giá rẻ dĩ an]
+tags: [quan an di an, lang dai hoc di an]
 description: "Review quán bò né Chibi gần Làng Đại học: bò mềm, nhiều topping, giá chỉ từ 27k – lựa chọn ăn sáng, ăn tối cho sinh viên."  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/quan_bo_ne_chibi_sinh_vien_ko6cjd.webp 

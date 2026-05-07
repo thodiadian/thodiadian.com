@@ -3,7 +3,7 @@ layout: post
 title: "Top quán cafe học bài yên tĩnh ở Dĩ An đáng thử nhất"
 date: 2026-04-06 10:00:00 +0700
 categories: [Review, Cà phê] 
-tags: [cafe dĩ an, cafe học bài ở dĩ an, quán cafe yêu tĩnh dĩ an, học bài yên tĩnh dĩ an]
+tags: [cafe di an, tra sua di an]
 description: "Khám phá quán cafe học bài yên tĩnh ở Dĩ An với không gian rộng rãi, wifi mạnh, nhiều ổ cắm điện và giá cả cực kỳ sinh viên."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Snow_caffee_di_an-900-640_jtwegc.jpg
