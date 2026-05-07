@@ -3,7 +3,7 @@ layout: post
 title: "Review Hệ thống Y tế Dĩ An: Bệnh viện, Phòng khám & Nhà thuốc uy tín tốt nhất"
 date: 2026-04-27 10:00:00 +0700
 categories: [Review, Y tế, Sức khỏe]
-tags: [bệnh viện dĩ an, phòng khám dĩ an, nhà thuốc dĩ an, khám sức khỏe dĩ an]
+tags: [y te di an, benh vien di an]
 description: "Tổng hợp các cơ sở y tế uy tín tại TP. Dĩ An: bệnh viện đa khoa, phòng khám chuyên khoa, nhà thuốc chất lượng. Thông tin đầy đủ địa chỉ, giá cả, dịch vụ để bạn chăm sóc sức khỏe gia đình một cách tốt nhất."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/benh_vien_da_khoa_di_an_su6sau.jpg

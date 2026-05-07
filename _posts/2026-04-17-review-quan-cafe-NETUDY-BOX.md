@@ -3,7 +3,7 @@ layout: post
 title: "Review Netudy Box Dĩ An: Study box học bài riêng giá rẻ gần Làng Đại học"  
 date: 2026-04-17 08:00:00 +0700  
 categories: [Review, Cà phê, Trà sữa]   
-tags: [netudy box, study box dĩ an, thuê phòng học riêng dĩ an, cafe box dĩ an, phòng học sinh viên dĩ an]
+tags: [cafe di an, tra sua di an, lang dai hoc di an]
 description: "Review Netudy Box Dĩ An – quán cafe box cho thuê phòng học riêng chỉ từ 9k, yên tĩnh, có máy lạnh, phù hợp sinh viên Làng Đại học."  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/cafe_box_netudy_re_wlwu7a.webp  

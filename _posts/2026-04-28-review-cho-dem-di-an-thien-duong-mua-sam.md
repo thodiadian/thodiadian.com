@@ -3,7 +3,7 @@ layout: post
 title: "Review Chợ Đêm Việt Lập Dĩ An: Thiên Đường Mua Sắm & Ăn Vặt Về Đêm Giá Siêu Rẻ"
 date: 2026-04-16 09:00:00 +0700
 categories: [Review, Mua sắm]
-tags: [chợ đêm dĩ an, mua sắm dĩ an, shop quần áo dĩ an, ăn vặt dĩ an, thời trang dĩ an giá rẻ]
+tags: [cho di an, mua sam di an, an vat di an]
 description: "Khám phá Chợ Đêm Dĩ An – điểm mua sắm quần áo, giày dép, phụ kiện thời trang nam nữ giá rẻ và thưởng thức ẩm thực đường phố về đêm sầm uất. Xem ngay review chi tiết và mẹo mua sắm."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/cho_dem_di_an_q9ptm7.jpg

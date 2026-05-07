@@ -3,7 +3,7 @@ layout: post
 title: "Review Hồ Đá Làng Đại Học: Tọa Độ 'Sống Ảo' Triệu View Tại Dĩ An"
 date: 2026-04-07 09:00:00 +0700
 categories: [Review, Địa điểm]
-tags: [hồ đá làng đại học, điểm check-in dĩ an, địa điểm du lịch dĩ an, dĩ an, bình dương]
+tags: [check in di an, du lich di an, lang dai hoc di an]
 description: "Khám phá Hồ Đá Làng Đại học - địa điểm ngắm hoàng hôn cực đẹp tại Dĩ An. Cập nhật kinh nghiệm check-in an toàn, đường đi và những lưu ý quan trọng cho sinh viên."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/ho_da_lang_dai_hoc_2-1200-1100_seqqtd.jpg

@@ -3,7 +3,7 @@ layout: post
 title: "Review Khu Du Lịch Thủy Châu Dĩ An: Điểm 'Tránh Nóng' Lý Tưởng Cuối Tuần"
 date: 2026-04-08 08:30:00 +0700
 categories: [Review, Giải trí]
-tags: [khu du lịch thủy châu dĩ an, du lịch dĩ an, địa điểm vui chơi bình dương, dã ngoại cuối tuần ở dĩ an]
+tags: [du lich di an, giai tri di an]
 description: "Khám phá Khu du lịch Thủy Châu Dĩ An với suối nhân tạo cực lớn và hồ bơi hiện đại. Cập nhật giá vé, kinh nghiệm ăn uống và vui chơi mới nhất năm 2026."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/khu_du_lich_thuy_chau_2-1200-800_mlk9mc.jpg

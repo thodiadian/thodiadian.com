@@ -3,7 +3,7 @@ layout: post
 title: "YUMMY Trà sữa Dĩ An – Mì cay, đồ ăn vặt ngon rẻ, không gian check-in cực chất"
 date: 2026-04-07 11:00:00 +0700
 categories: [Review, Trà sữa, Đồ ăn vặt]
-tags: [trà sủa yummy dĩ an, trà sữa di an, mỳ cay dĩ an, đồ ăn vặt dĩ an]
+tags: [tra sua di an, an vat di an]
 description: "YUMMY Trà sữa Dĩ An tại 476 Nguyễn Tri Phương là thiên đường mì cay, trà sữa và đồ ăn vặt ngon rẻ, không gian đẹp sống ảo. Khám phá ngay menu, giá cả và đánh giá chi tiết từ A đến Z."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/tra_sua_yummy-1050-1050_fljidp.jpg

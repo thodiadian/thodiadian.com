@@ -3,7 +3,7 @@ layout: post
 title: "Lâu Đài Phố Coffee Dĩ An – Không gian châu Âu cổ kính, view đẹp sống ảo cực chất"
 date: 2026-04-06 09:00:00 +0700
 categories: [Review, Cà phê, Địa điểm check-in]
-tags: [lâu dài phố coffee dĩ an, cafe dĩ an, quán cafe dẹp dĩ an, địa điểm check in dĩ an]
+tags: [cafe di an, check in di an]
 description: "Lâu Đài Phố Coffee Dĩ An mang không gian châu Âu cổ kính, view đẹp sống ảo cực chất. Khám phá ngay địa chỉ, menu giá cả và những góc check-in triệu view tại quán cà phê đẹp nhất nhì Dĩ An."
 image:
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/lau_dai_pho_coffee-1200-1200_divau7.jpg
