@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title:  "Review Nhà thờ Giáo xứ Dĩ An – Nhà thờ Công giáo lớn và lâu đời ngay trung tâm Dĩ An"  
-date: 2026-05-17 08:00:00 +0700  
+date: 2026-05-07 08:00:00 +0700  
 categories: [Review, Địa điểm, Tâm linh]   
 tags: [nhà thờ giáo xứ dĩ an, nhà thờ dĩ an, giờ lễ nhà thờ dĩ an, nhà thờ công giáo dĩ an, giáo xứ dĩ an, giờ lễ giáo xứ dĩ an]  
 description:  "Review Nhà thờ Giáo xứ Dĩ An – nhà thờ Công giáo rộng rãi, trang nghiêm, gần chợ Dĩ An với lịch sử lâu đời và nhiều giờ lễ trong tuần." 
