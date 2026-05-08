@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title:  "Review Chùa Phật Đức Hòa Dĩ An – Không gian thanh tịnh và ấm áp giữa lòng Đông Hòa" 
-date: 2026-05-7 08:00:00 +0700  
+date: 2026-05-07 08:00:00 +0700  
 categories: [Review, Địa điểm, Tâm linh]   
 tags: [chùa phật đức hòa, chùa đông hòa dĩ an, chùa phật giáo đông hòa, chùa đẹp bình dương, chùa gần làng đại học, lễ phật, lễ hằng thuận]  
 description:  "Review Chùa Phật Đức Hòa Dĩ An – ngôi chùa cổ kính với không gian thanh tịnh, bếp ăn miễn phí và nhiều hoạt động Phật giáo ý nghĩa."  
