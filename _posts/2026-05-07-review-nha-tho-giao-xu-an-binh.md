@@ -2,11 +2,11 @@
 layout: post  
 title:  "Review Nhà thờ Giáo xứ An Bình Đông Hòa – Không gian bình an và trang nghiêm giữa lòng Đông Hòa"  
 date: 2026-05-07 08:00:00 +0700  
-categories: [Review, Địa điểm, Tâm linh]   
-tags: [nhà thờ giáo xứ an bình, nhà thờ giáo xứ đông hòa, giờ lễ nhà thờ giáo xứ dĩ an, giờ lễ nhà thờ đông hòa, nhà thờ đông hòa]  
+categories: [Review, Địa điểm]   
+tags: [check in di an, du lich di an]  
 description:  "Review Nhà thờ Giáo xứ An Bình Đông Hòa – không gian yên tĩnh, trang nghiêm, nhiều cây xanh và là điểm sinh hoạt Công giáo lâu đời tại Đông Hòa." 
 image:  
-  path: /assets/images/giao_xu_an_binh.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/giao_xu_an_binh_tuotrj.webp
   alt:  "Giáo xứ An bình độc lạ vào buổi chiều"
 ---
 
@@ -41,7 +41,7 @@ Từ năm 2002–2005:
 Công trình hiện nay khang trang hơn nhưng vẫn giữ được nét trang nghiêm và gần gũi.
 
 
-![Không gian kỳ phu của nơi cầu nguyện](/assets/images/khong_gian_giao_xu_an_binh.webp)  
+![Không gian kỳ phu của nơi cầu nguyện](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/khong_gian_giao_xu_an_binh_nwyoro.webp)  
 *Không gian kỳ phu của nơi cầu nguyện*
 
 
@@ -101,7 +101,5 @@ Lễ CƯỚI:
 
 ---
 
-**Bài viết liên quan bạn nên xem :** 
-- Đi lễ nhà thờ giáo xứ Dĩ an: [Review nhà thờ giáo xứ Dĩ An](/posts/review-nha-tho-giao-xu-di-an)
-- Đi lễ nhà thờ giáo xứ Đông Hòa: [Review nhà thờ giáo xứ Đông Hòa](/posts/review-nha-tho-giao-xu-dong-hoa)
+{% include category-posts.html %}
 
