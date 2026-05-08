@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title:  "Review Giáo xứ Đông Hòa Dĩ An – Nhà thờ rộng rãi gần KTX với nhiều giờ lễ cuối tuần"  
-date: 2026-05-17 08:00:00 +0700  
+date: 2026-05-07 08:00:00 +0700  
 categories: [Review, Địa điểm, Tâm linh]   
 tags: [nhà thờ giáo xứ đông hòa, giờ lễ nhà thờ đông hòa, giáo xứ đông hòa, nhà thờ gần ktx, giờ lễ công giáo dĩ an]  
 description:  "Review Chùa Châu Thới Bình Dương – ngôi chùa cổ hơn 300 năm tuổi với view núi cực đẹp, tượng Quan Âm khổng lồ và không gian thanh tịnh."  
