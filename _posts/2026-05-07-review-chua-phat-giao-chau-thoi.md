@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title:  "Review Chùa Châu Thới Bình Dương – Ngôi chùa cổ trên núi đẹp và yên bình gần Sài Gòn"  
-date: 2026-05-01 08:00:00 +0700  
+date: 2026-05-07 08:00:00 +0700  
 categories: [Review, Địa điểm, Tâm linh]   
 tags: [chùa phật giáo đông hòa, chùa châu thới bình dương, hình ảnh của chùa châu thới, chùa châu thới ở đâu, bài đánh giá về chùa châu thới]  
 description:  "Review Chùa Châu Thới Bình Dương – ngôi chùa cổ hơn 300 năm tuổi với view núi cực đẹp, tượng Quan Âm khổng lồ và không gian thanh tịnh."  
