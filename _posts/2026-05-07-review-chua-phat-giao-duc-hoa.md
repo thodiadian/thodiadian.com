@@ -111,5 +111,5 @@ Ngoài ra:
 
 **Bài viết liên quan bạn nên xem :** 
 - Đi lễ nhà thờ giáo xứ Dĩ an: [Review nhà thờ giáo xứ Dĩ An](/posts/review-nha-tho-giao-xu-di-an)
-- Đi du lịch chùa phật giáo Châu Thôi nổi tiếng Sài Gòn: [Review chùa phật giáo Châu Thới](/posts/review-chua-phat-giao-chau-thoi)
+- Đi du lịch chùa phật giáo Châu Thới nổi tiếng Sài Gòn: [Review chùa phật giáo Châu Thới](/posts/review-chua-phat-giao-chau-thoi)
 
