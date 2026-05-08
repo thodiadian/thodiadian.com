@@ -2,11 +2,11 @@
 layout: post  
 title:  "Review Chùa Châu Thới Bình Dương – Ngôi chùa cổ trên núi đẹp và yên bình gần Sài Gòn"  
 date: 2026-05-07 08:00:00 +0700  
-categories: [Review, Địa điểm, Tâm linh]   
-tags: [chùa phật giáo đông hòa, chùa châu thới bình dương, hình ảnh của chùa châu thới, chùa châu thới ở đâu, bài đánh giá về chùa châu thới]  
+categories: [Review, Địa điểm]   
+tags: [check in di an, du lich di an]  
 description:  "Review Chùa Châu Thới Bình Dương – ngôi chùa cổ hơn 300 năm tuổi với view núi cực đẹp, tượng Quan Âm khổng lồ và không gian thanh tịnh."  
 image:  
-  path: /assets/images/hinh_rong_vang_chua_chau_thoi.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/hinh_rong_vang_chua_chau_thoi_wutpha.webp
   alt:  "Không gian tuyệt đẹp của chùa Châu Thới"
 ---
 
@@ -38,7 +38,7 @@ Từ trung tâm TP.HCM, bạn chỉ mất khoảng:
 - Reset tâm trạng sau những ngày bận rộn  
 ## 2. Lịch sử hơn 300 năm của Chùa Châu Thới
 
-![Hình ảnh của Chùa Châu Thới](/assets/images/chua_chau_thoi_binh_duong.webp)  
+![Hình ảnh của Chùa Châu Thới](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/chua_chau_thoi_binh_duong_c3fg3s.webp)  
 *Khung cảnh Chùa Châu Thới *
 
 Chùa Châu Thới được xây dựng khoảng năm **1612** bởi thiền sư Khánh Long.
@@ -91,7 +91,7 @@ Một trong những điều khiến nhiều người thích nơi này là:
 - Cảm giác cực kỳ thư giãn và nhẹ lòng  
 
 Đây là nơi rất đáng đi nếu muốn reset lại tâm trạng cuối tuần
-![View trên cao của chùa Châu Thới](/assets/images/hinh_view_nui_chua_chau_thoi.webp)  
+![View trên cao của chùa Châu Thới](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/hinh_view_nui_chua_chau_thoi_zljabi.webp)  
 *Khung cảnh Chùa Châu Thới từ trên cao*
 ## 4. Những điều thú vị tại Chùa Châu Thới
 
@@ -129,7 +129,5 @@ Người dân địa phương kể rằng:
 
 ---
 
-**Bài viết liên quan bạn nên xem :** 
-- Đi lễ nhà thờ giáo xứ Dĩ an: [Review nhà thờ giáo xứ Dĩ An](/posts/review-nha-tho-giao-xu-di-an)
-- Đi lễ nhà thờ giáo xứ Đông Hòa: [Review nhà thờ giáo xứ Đông Hòa](/posts/review-nha-tho-giao-xu-dong-hoa)
+{% include category-posts.html %}
 

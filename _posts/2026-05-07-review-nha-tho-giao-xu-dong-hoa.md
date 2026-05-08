@@ -2,11 +2,11 @@
 layout: post  
 title:  "Review Giáo xứ Đông Hòa Dĩ An – Nhà thờ rộng rãi gần KTX với nhiều giờ lễ cuối tuần"  
 date: 2026-05-07 08:00:00 +0700  
-categories: [Review, Địa điểm, Tâm linh]   
-tags: [nhà thờ giáo xứ đông hòa, giờ lễ nhà thờ đông hòa, giáo xứ đông hòa, nhà thờ gần ktx, giờ lễ công giáo dĩ an]  
+categories: [Review, Địa điểm]   
+tags: [check in di an, du lich di an]  
 description:  "Review Chùa Châu Thới Bình Dương – ngôi chùa cổ hơn 300 năm tuổi với view núi cực đẹp, tượng Quan Âm khổng lồ và không gian thanh tịnh."  
 image:  
-  path: /assets/images/giao_xu_dong_hoa.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/giao_xu_dong_hoa_nwhloy.webp
   alt:  "Giáo xứ Đông Hòa Dĩ An rộng rãi và trang nghiêm"  
 ---
 
@@ -40,7 +40,7 @@ Còn nếu đi từ hướng Quốc lộ 1K:
 - Có thể đậu ô tô dễ dàng  
 ## 2. Không gian Giáo xứ Đông Hòa
 
-![Không gian Giáo xứ Đông Hòa](/assets/images/giao_xu_dong_hoa_dian.webp)  
+![Không gian Giáo xứ Đông Hòa](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/giao_xu_dong_hoa_dian_qtpihv.webp)  
 *Không gian rộng rãi và yên bình tại Giáo xứ Đông Hòa*
 
 Ấn tượng đầu tiên khi đến đây là:
@@ -63,7 +63,7 @@ Một điểm khá thú vị là:
 Ngoài ra:
 - Giáo xứ còn có nơi tu dưỡng cho các em dự tu.  
 ## 4. Giờ lễ nhà thờ Đông Hòa
-![Giờ lễ Giáo xứ Đông Hòa](/assets/images/gio_le_giao_xu_dong_hoa_dian.webp)  
+![Giờ lễ Giáo xứ Đông Hòa](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/gio_le_giao_xu_dong_hoa_dian_vqchqu.webp)  
 -Nhà thờ làm lễ mỗi ngày và có nhiều thánh lễ trong ngày chủ nhật. Bên cạnh đó còn có lễ hôn phối và lễ lớn mỗi tháng
 -Ngoài ra, nhà thờ giáo xứ Đông Hòa còn trang trí và tổ chức lễ lớn trong những ngày đặc biệt như giáng sinh, phục sinh,...
 ## 5. Đánh giá Giáo xứ Đông Hòa
@@ -89,7 +89,5 @@ Ngoài ra:
 
 ---
 
-**Bài viết liên quan bạn nên xem :** 
-- Đi lễ nhà thờ giáo xứ Dĩ an: [Review nhà thờ giáo xứ Dĩ An](/posts/review-nha-tho-giao-xu-di-an)
-- Đi du lịch chùa phật giáo Châu Thôi nổi tiếng Sài Gòn: [Review chùa phật giáo Châu Thới](/posts/review-chua-phat-giao-chau-thoi)
+{% include category-posts.html %}
 

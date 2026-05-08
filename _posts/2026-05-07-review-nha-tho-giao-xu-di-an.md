@@ -2,11 +2,11 @@
 layout: post  
 title:  "Review Nhà thờ Giáo xứ Dĩ An – Nhà thờ Công giáo lớn và lâu đời ngay trung tâm Dĩ An"  
 date: 2026-05-07 08:00:00 +0700  
-categories: [Review, Địa điểm, Tâm linh]   
-tags: [nhà thờ giáo xứ dĩ an, nhà thờ dĩ an, giờ lễ nhà thờ dĩ an, nhà thờ công giáo dĩ an, giáo xứ dĩ an, giờ lễ giáo xứ dĩ an]  
+categories: [Review, Địa điểm]   
+tags: [check in di an, du lich di an]  
 description:  "Review Nhà thờ Giáo xứ Dĩ An – nhà thờ Công giáo rộng rãi, trang nghiêm, gần chợ Dĩ An với lịch sử lâu đời và nhiều giờ lễ trong tuần." 
 image:  
-  path: /assets/images/nha_tho_giao_xu_di_an.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/nha_tho_giao_xu_di_an_x6xuxd.webp
   alt:   "Nhà thờ Giáo xứ Dĩ An rộng rãi và trang nghiêm"  
 ---
 # Review Nhà thờ Giáo xứ Dĩ An – Nhà thờ Công giáo lớn ngay trung tâm Dĩ An
@@ -33,7 +33,7 @@ Khu vực xung quanh:
 - Không khí sinh hoạt Công giáo rất nhộn nhịp, đặc biệt vào dịp Noel.
 ## 2. Lịch sử hình thành Giáo xứ Dĩ An
 
-![Nhà thờ Giáo xứ Dĩ An](/assets/images/nha_tho_giao_xu_dian.webp)  
+![Nhà thờ Giáo xứ Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/nha_tho_giao_xu_dian_bi5egn.webp)  
 *Không gian Nhà thờ Giáo xứ Dĩ An*
 
 **Nhà thờ Dĩ An** trực thuộc:
@@ -120,7 +120,7 @@ Ngoài ra:
  Đây cũng là thời điểm:
 - Khu vực trung tâm Dĩ An trở nên sôi động hơn  
 - Nhiều người đến tham quan và chụp ảnh.  
-![Nhà thờ Giáo xứ Dĩ An vào Giáng Sinh](/assets/images/le_giang_sinh_nha_tho_giao_xu_di_an.webp)   
+![Nhà thờ Giáo xứ Dĩ An vào Giáng Sinh](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/le_giang_sinh_nha_tho_giao_xu_di_an_fsar8q.webp)   
 *Lễ Giáng Sinh ở giáo xứ Dĩ An*
 ## 6. Đánh giá Nhà thờ Giáo xứ Dĩ An
 
@@ -141,11 +141,9 @@ Ngoài ra:
 
 - **📍 Địa chỉ:** 372 Trần Hưng Đạo, Dĩ An, Hồ Chí Minh, Việt Nam
 - **⏰ Giờ mở cửa:** 4:45 - 20:00
-- **🗺️ Google Maps:** [Nhà thờ giáo xứ Dĩ An]https://maps.app.goo.gl/Lb2pe6xHCc78CSBPA)
+- **🗺️ Google Maps:** [Nhà thờ giáo xứ Dĩ An](https://maps.app.goo.gl/Lb2pe6xHCc78CSBPA)
 
 ---
 
-**Bài viết liên quan bạn nên xem :** 
-- Đi tham quan chùa phật giáo Đức Hòa: [Review chùa phật giáo Đức Hòa](/posts/review-chua-phat-giao-duc-hoa)
-- Đi du lịch chùa phật giáo Châu Thôi nổi tiếng Sài Gòn: [Review chùa phật giáo Châu Thới](/posts/review-chua-phat-giao-chau-thoi)
+{% include category-posts.html %}
 
