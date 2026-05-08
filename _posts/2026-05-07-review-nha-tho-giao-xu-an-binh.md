@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title:  "Review Nhà thờ Giáo xứ An Bình Đông Hòa – Không gian bình an và trang nghiêm giữa lòng Đông Hòa"  
-date: 2026-05-17 08:00:00 +0700  
+date: 2026-05-07 08:00:00 +0700  
 categories: [Review, Địa điểm, Tâm linh]   
 tags: [nhà thờ giáo xứ an bình, nhà thờ giáo xứ đông hòa, giờ lễ nhà thờ giáo xứ dĩ an, giờ lễ nhà thờ đông hòa, nhà thờ đông hòa]  
 description:  "Review Nhà thờ Giáo xứ An Bình Đông Hòa – không gian yên tĩnh, trang nghiêm, nhiều cây xanh và là điểm sinh hoạt Công giáo lâu đời tại Đông Hòa." 
