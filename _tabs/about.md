@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Chào mừng bạn đến với **Thổ Địa Dĩ An**! Nơi đây chuyên tổng hợp và đánh giá chân thực nhất các địa điểm ăn uống, vui chơi và đời sống sinh viên quanh khu vực Dĩ An và Làng Đại học.
+Thổ địa Dĩ An mang đến thông tin địa điểm, review và trải nghiệm thực tế giúp người dùng dễ dàng tìm kiếm nơi ăn uống, giải trí và thư giãn phù hợp. Chúng tôi tập trung vào trải nghiệm nhanh, hình ảnh trực quan và nội dung đáng tin cậy để việc khám phá trở nên đơn giản hơn bao giờ hết.
