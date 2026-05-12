@@ -2,11 +2,11 @@
 layout: post  
 title:  "Review Gym Tiến Sport Dĩ An – Phòng gym sạch sẽ, giá hợp lý sinh viên " 
 date: 2026-05-17 08:00:00 +0700  
-categories: [Review, Thể thao]   
-tags: [phòng gym dĩ an, gym dĩ an, phòng tập gym dĩ an, phòng tập yoga ở dĩ an]  
+categories: [Review, Thể thao, Giải trí]   
+tags: [the thao di an, giai tri di an]  
 description:  "Review Gym Tiến Sport Dĩ An – phòng gym sạch sẽ, máy móc mới, giá tập hợp lý và không gian thoáng mát tại Dĩ An."   
 image:  
-  path: /assets/images/gym_tien_sport_dian.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/gym_tien_sport_dian_yvujut.webp
   alt: "Gym Tiến Sport Dĩ An với không gian sạch sẽ và máy móc hiện đại" 
 ---
 
@@ -55,7 +55,7 @@ thì **Gym Tiến Sport** là một địa điểm rất đáng để trải ngh
 - Không chèo kéo hội viên  
 ## 3. Không gian phòng gym có gì nổi bật?
 
-![Gym Tiến Sport Dĩ An](/assets/images/gym_hien_dai_tien_sport_dian.webp)  
+![Gym Tiến Sport Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/gym_hien_dai_tien_sport_dian_bnig1b.webp)  
 *Không gian tập luyện tại Gym Tiến Sport Dĩ An*
 
 Ấn tượng đầu tiên khi đến đây là:
@@ -105,4 +105,4 @@ Gym có personal trainer nhiều kinh nghiệm, có tổ chức các buổi họ
 
 ---
 
-
+{% include category-posts.html %}
