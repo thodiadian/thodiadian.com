@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title:  "Review SH Fitness Gym Đông Hòa – gym máy xịn giá tốt cho sinh viên" 
-date: 2026-05-17 08:00:00 +0700  
+date: 2026-05-10 08:00:00 +0700  
 categories: [Review, Thể thao, Giải trí]   
 tags: [the thao di an, giai tri di an]  
 description:  "Review SH Fitness Gym Đông Hòa – phòng gym rộng rãi với máy móc hiện đại, điều hòa mát, giá hợp lý và nhiều ưu đãi cho sinh viên."   
