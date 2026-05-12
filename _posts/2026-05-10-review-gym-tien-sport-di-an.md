@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title:  "Review Gym Tiến Sport Dĩ An – Phòng gym sạch sẽ, giá hợp lý sinh viên " 
-date: 2026-05-17 08:00:00 +0700  
+date: 2026-05-10 08:00:00 +0700  
 categories: [Review, Thể thao, Giải trí]   
 tags: [the thao di an, giai tri di an]  
 description:  "Review Gym Tiến Sport Dĩ An – phòng gym sạch sẽ, máy móc mới, giá tập hợp lý và không gian thoáng mát tại Dĩ An."   
