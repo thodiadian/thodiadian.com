@@ -6,7 +6,7 @@ categories: [Review, Ẩm thực]
 tags: [quan an di an]
 description: "Khám phá Lẩu Nướng Cần Giờ - thiên đường lẩu nướng bình dân cho sinh viên tại 151 Tô Vĩnh Diện, Đông Hòa, Dĩ An. Review chi tiết không gian 3 lầu, menu hơn 40 món nướng và lẩu hải sản."
 image: 
-  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122402/sq7rzslvqhtfunk4gtdc.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779207884/sqzu6eekv23l8h0fsmc9.webp
   alt: "Không gian sân thượng thoáng mát và những xiên nướng hấp dẫn tại Lẩu Nướng Cần Giờ"
 ---
 

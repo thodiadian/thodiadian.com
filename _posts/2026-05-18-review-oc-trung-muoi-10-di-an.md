@@ -6,7 +6,7 @@ categories: [Review, Ẩm thực]
 tags: [quan an di an]
 description: "Khám phá Ốc Trứng Muối 10 - chi nhánh mới toanh tại 335 Lý Thường Kiệt, Dĩ An. Review chi tiết không gian, menu ốc trứng muối 'thần thánh', cua sốt béo ngậy và dịch vụ."
 image: 
-  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122424/vyo51nvn6ubzddxd2inu.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779207939/g9jnsqwbcdjf07xhpp9j.webp
   alt: "Những phần ốc trứng muối hấp dẫn tại Ốc Trứng Muối 10 Dĩ An"
 ---
 

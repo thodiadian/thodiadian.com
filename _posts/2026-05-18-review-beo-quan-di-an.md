@@ -6,7 +6,7 @@ categories: [Review, Ẩm thực]
 tags: [quan an di an, buffet di an]
 description: "Khám phá Béo Quán - địa điểm BBQ & Chill sôi động bậc nhất tại 45 Nguyễn Du, Dĩ An. Review chi tiết thực đơn hơn 50 món, không gian chill và dịch vụ đặt bàn."
 image: 
-  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122416/g6xinq8cw0i0joty9qn1.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779207934/pdj8v2mmefpqibsokjeo.webp
   alt: "Không gian nướng lẩu sôi động tại Béo Quán Dĩ An"
 ---
 
