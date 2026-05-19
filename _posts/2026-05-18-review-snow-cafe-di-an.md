@@ -3,7 +3,7 @@ layout: post
 title:  "Review SnOw Cafe Dĩ An – Quán cafe yên tĩnh học bài cực chill"  
 date: 2026-05-18 08:00:00 +0700  
 categories: [Review, Cà phê]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, ]  
+tags: [ cafe di an, lang dai hoc di an ]  
 description:  "Review SnOw Cafe Dĩ An – quán cafe tone trắng yên tĩnh, phù hợp học bài và làm việc với không gian rộng rãi và nhiều góc ngồi thoải mái."  
 image:  
   path: /assets/images/snow_cafe_dian.webp  
@@ -180,5 +180,4 @@ Câu trả lời là CÓ nếu bạn:
 
 ---
 
-
-
+{% include category-posts.html %}

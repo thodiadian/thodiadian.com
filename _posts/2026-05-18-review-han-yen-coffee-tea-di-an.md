@@ -3,7 +3,7 @@ layout: post
 title:  "Review Hàn Yên Coffee&Tea – Quán cafe học bài yên tĩnh tại Dĩ An"
 date: 2026-05-18 08:00:00 +0700  
 categories: [Review, Cà phê]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, ]  
+tags: [cafe di an, check in di an]  
 description:  "Review Hàn Yên Coffee&Tea – quán cafe yên tĩnh tại Đông Hòa-Dĩ An phù hợp học bài, làm việc với không gian sạch sẽ, wifi ổn định và menu đồ uống đa dạng."
 image:
   path: /assets/images/han_yen_coffee_tea_di_an.webp  
@@ -161,5 +161,5 @@ Câu trả lời là CÓ nếu bạn:
 
 ---
 
-
+{% include category-posts.html %}
 

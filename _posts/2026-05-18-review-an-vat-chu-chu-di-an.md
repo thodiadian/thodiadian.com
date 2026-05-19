@@ -3,7 +3,7 @@ layout: post
 title:  "Review Ăn Vặt Chu Chu – Quán bánh tráng trộn sinh viên Đông Hòa"
 date: 2026-05-18 08:00:00 +0700  
 categories: [Review, Ẩm thực]   
-tags: [ăn vặt dĩ an ,ăn vặt, đồ ăn vặt, trà sữa dĩ an, ăn vặt chu chu, ăn vặt đông hòa]  
+tags: [an vat di an, cafe di an, tra sua di an]  
 description: "Review Ăn Vặt Chu Chu – quán ăn vặt nổi tiếng tại Đông Hòa với bánh tráng trộn tóp mỡ, trứng cút trộn đậm vị và giá cả cực kỳ hợp túi tiền học sinh sinh viên."
 image:
   path: /assets/images/an_vat_chu_chu_di_an.webp  
@@ -162,5 +162,5 @@ Câu trả lời là CÓ nếu bạn:
 
 ---
 
-
+{% include category-posts.html %}
 

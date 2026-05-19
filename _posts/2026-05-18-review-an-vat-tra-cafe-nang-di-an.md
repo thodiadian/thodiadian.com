@@ -3,7 +3,7 @@ layout: post
 title:  "Review Trà - Cà phê Nắng – Quán ăn vặt và trà sữa giá sinh viên Dĩ An"
 date: 2026-05-18 08:00:00 +0700  
 categories: [Review, Cà phê, Ẩm thực]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, ăn vặt, đồ ăn vặt, trà sữa dĩ an ]  
+tags: [cafe di an, an vat di an, tra sua di an]  
 description: "Review Tiệm Trà - Cà phê Nắng – quán cafe và ăn vặt tại Đông Hòa nổi bật với bánh tráng nướng ngon, trà sữa hợp vị và không gian yên tĩnh phù hợp sinh viên."
 image:
   path: /assets/images/tiem_tra_ca_phe_nang_di_an.webp  
@@ -167,5 +167,5 @@ Câu trả lời là CÓ nếu bạn:
 
 ---
 
-
+{% include category-posts.html %}
 

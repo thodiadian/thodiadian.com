@@ -3,7 +3,7 @@ layout: post
 title:  "Review Trà sữa Bon Bon 2 – Quán trà sữa phong cách thập niên 80 tại Dĩ An"
 date: 2026-05-18 08:00:00 +0700  
 categories: [Review, Cà phê]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, trà sữa dĩ an, làng đại học thủ đức,trà sữa bon bon 2 ]  
+tags: [cafe di an, tra sua di an, lang dai hoc di an, check in di an ]  
 description: "Review Trà sữa Bon Bon 2 – quán trà sữa tại Đông Hòa nổi bật với phong cách decor thập niên 80, không gian yên tĩnh phù hợp học tập và làm việc."
 image:
   path: /assets/images/tra_sua_bon_bon_2_lang_dai_hoc_thu_duc.webp  
@@ -169,6 +169,6 @@ Câu trả lời là CÓ nếu bạn:
 - **🗺️ Google Maps:** [Trà sữa Bon Bon 2](https://maps.app.goo.gl/cLCNhMvCwXLXEj1n8)
 
 ---
-
+{% include category-posts.html %}
 
 
