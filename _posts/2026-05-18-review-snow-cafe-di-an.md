@@ -6,7 +6,7 @@ categories: [Review, Cà phê]
 tags: [ cafe di an, lang dai hoc di an ]  
 description:  "Review SnOw Cafe Dĩ An – quán cafe tone trắng yên tĩnh, phù hợp học bài và làm việc với không gian rộng rãi và nhiều góc ngồi thoải mái."  
 image:  
-  path: /assets/images/snow_cafe_dian.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269661/xrmvbaitnsmfpvy5gsg2.webp  
   alt: "Không gian yên tĩnh tại SnOw Cafe Dĩ An"  
 ---
 # Review SnOw Cafe Dĩ An – Quán cafe học bài yên tĩnh và rộng rãi tại Dĩ An
@@ -43,7 +43,7 @@ Quán nằm ở khu vực khá yên tĩnh nên:
 
 ## 2. Không gian quán có gì nổi bật?
 
-![SnOw Cafe Dĩ An](/assets/images/khong_gian_snow_cafe_dian.webp)  
+![SnOw Cafe Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269644/maqx9cx45nq9olzcumrd.webp)  
 *Không gian tone trắng tại SnOw Cafe Dĩ An*
 
 Ấn tượng đầu tiên khi bước vào quán là:

@@ -6,7 +6,7 @@ categories: [Review, Ẩm thực]
 tags: [nhà hàng dĩ an, ăn vặt dĩ an ,ăn vặt, đồ ăn vặt, trà sữa dĩ an, làng đại học, ẩm thực mẹ nấu, làng đại học thủ đức , lang dai hoc di an, quan an di an]  
 description: "Review Ẩm thực Mẹ Nấu – quán cơm gia đình gần làng Đại học với thực đơn đa dạng, khẩu phần nhiều, không gian rộng rãi và giá cả hợp lý cho sinh viên."
 image:
-  path: /assets/images/nha_hang_am_thuc_me_nau_di_an.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269660/bxo9ijzw5obc9agcrfij.webp  
   alt: "Không gian tại Ẩm thực Mẹ Nấu"
 ---
 # Review Ẩm thực Mẹ Nấu – Quán cơm gia đình ngon gần làng Đại học
@@ -44,7 +44,7 @@ Quán nằm gần khu vực làng Đại học Quốc gia nên:
 
 
 ## 2. Không gian quán có gì nổi bật?
-![Nhà hàng ẩm thực mẹ nấu Dĩ An](/assets/images/nha_hang_am_thuc_me_nau_di_an.webp)  
+![Nhà hàng ẩm thực mẹ nấu Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269660/bxo9ijzw5obc9agcrfij.webp)  
 *Không gian nhà hàng ẩm thực mẹ nấu Dĩ An* 
 
 Ẩm thực Mẹ Nấu có không gian:
@@ -68,7 +68,7 @@ Nhiều khách đánh giá:
 
 
 ## 3. Thực đơn đa dạng với hương vị cơm mẹ nấu
-![Menu nhà hàng ẩm thực mẹ nấu dĩ an](/assets/images/menu_nha_hang_am_thuc_me_nau_di_an.webp)  
+![Menu nhà hàng ẩm thực mẹ nấu dĩ an](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269654/c2bawzrrbsiy13gs2j1c.webp)  
 *Các món ăn ngon mắt ở nhà hàng ẩm thực mẹ nấu Dĩ An* 
 
 Điểm nổi bật lớn nhất của quán là:

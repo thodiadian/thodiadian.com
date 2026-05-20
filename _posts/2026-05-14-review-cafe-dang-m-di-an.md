@@ -6,7 +6,7 @@ categories: [Review, Cà phê]
 tags: [cafe di an, check in di an]  
 description:  "Review ĐẶNG M Dĩ An – quán cafe thiết kế tối giản hiện đại, nhiều góc sống ảo đẹp." 
 image:  
-  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122438/vbmfuwmzom4iykax7ual.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779122438/vbmfuwmzom4iykax7ual.webp
   alt:   "Không gian hiện đại tại Cafe ĐẶNG M Dĩ An"  
 ---
 # Review Cafe ĐẶNG M Dĩ An – Quán cafe decor đẹp và cực chill tại Đông Hòa
@@ -39,7 +39,7 @@ Quán nằm ở khu vực khá dễ tìm:
 - Chụp ảnh dịp lễ.
 ## 2. Không gian quán có gì đặc biệt?
 
-![Cafe ĐẶNG M Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122437/naagrrxddht6iaoykhfp.webp)  
+![Cafe ĐẶNG M Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779122437/naagrrxddht6iaoykhfp.webp)  
 *Không gian tối giản hiện đại tại ĐẶNG M Dĩ An*
 
 Ấn tượng đầu tiên khi bước vào quán là:
@@ -58,7 +58,7 @@ Quán nằm ở khu vực khá dễ tìm:
 ## 4. Decor và concept rất đầu tư
 
 ###  Noel là “đặc sản” của ĐẶNG M
-![Cafe ĐẶNG M Dĩ An Noel](https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122427/ff8gyg9sendzxsa0koo0.webp)  
+![Cafe ĐẶNG M Dĩ An Noel](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779122427/ff8gyg9sendzxsa0koo0.webp)  
 *Không gian tối giản hiện đại tại ĐẶNG M Dĩ An vào lễ noel*
 Nhiều người chia sẻ:
 - Noel năm nào cũng ghé ĐẶNG M chụp ảnh  
@@ -74,7 +74,7 @@ Nhiều người chia sẻ:
 ## 5. Menu đa dạng và ngon
 
 ###  Từ cafe đến trà sữa đều có
-![Menu cà phê ĐẶNG M Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122404/g3jwbj382ht1tubfjii7.webp)  
+![Menu cà phê ĐẶNG M Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779122404/g3jwbj382ht1tubfjii7.webp)  
 *Menu cà phê của quán*
 Menu của quán khá phong phú:
 - Cafe  

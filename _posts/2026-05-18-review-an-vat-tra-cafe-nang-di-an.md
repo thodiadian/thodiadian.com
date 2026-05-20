@@ -6,7 +6,7 @@ categories: [Review, Cà phê, Ẩm thực]
 tags: [cafe di an, an vat di an, tra sua di an]  
 description: "Review Tiệm Trà - Cà phê Nắng – quán cafe và ăn vặt tại Đông Hòa nổi bật với bánh tráng nướng ngon, trà sữa hợp vị và không gian yên tĩnh phù hợp sinh viên."
 image:
-  path: /assets/images/tiem_tra_ca_phe_nang_di_an.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269663/jxhen0o9fnhnxfjmzjr2.webp  
   alt: "Không gian tại Tiệm Trà - Cà phê Nắng"
 ---
 # Review Tiệm Trà - Cà phê Nắng – Quán ăn vặt và trà sữa giá sinh viên tại Đông Hòa
@@ -42,7 +42,7 @@ Ngoài ra:
 
 
 ## 2. Không gian quán có gì nổi bật?
-![Trà cà phê Nắng Dĩ An](/assets/images/tiem_tra_ca_phe_nang_di_an.webp)  
+![Trà cà phê Nắng Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269663/jxhen0o9fnhnxfjmzjr2.webp)  
 *Không gian ngoài trời Trà cà phê Nắng Dĩ An-Đông Hòa* 
 
 Tiệm Trà - Cà phê Nắng có không gian:
@@ -66,7 +66,7 @@ Ai cũng đánh giá:
 
 
 ## 3. Menu ăn vặt và trà sữa được nhiều người yêu thích
-![Menu Trà cà phê Nắng Dĩ An](/assets/images/menu_tiem_tra_ca_phe_nang_di_an.webp)  
+![Menu Trà cà phê Nắng Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269656/zc577hwatpb79owpr6y4.webp)  
 *Bánh tráng nướng ăn vặt ngon ở Trà cà phê Nắng Dĩ An* 
 
 Điểm nổi bật nhất tại Tiệm Trà - Cà phê Nắng chính là:

@@ -6,7 +6,7 @@ categories: [Review, Cà phê]
 tags: [cafe di an, tra sua di an, lang dai hoc di an, check in di an ]  
 description: "Review Trà sữa Bon Bon 2 – quán trà sữa tại Đông Hòa nổi bật với phong cách decor thập niên 80, không gian yên tĩnh phù hợp học tập và làm việc."
 image:
-  path: /assets/images/tra_sua_bon_bon_2_lang_dai_hoc_thu_duc.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269665/w0asiz64aacj9rovsrvr.webp  
   alt: "Không gian tại Trà sữa Bon Bon 2 Dĩ An"
 ---
 # Review Trà sữa Bon Bon 2 – Quán trà sữa phong cách thập niên 80 tại Đông Hòa
@@ -44,7 +44,7 @@ Quán nằm trong khu vực Đông Hòa và khá thuận tiện cho:
 
 
 ## 2. Không gian quán có gì nổi bật?
-![Trà sữa bon bon làng đại học thủ đức](/assets/images/khong_gian_tra_sua_bon_bon_2_lang_dai_hoc_thu_duc.webp)  
+![Trà sữa bon bon làng đại học thủ đức](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269647/tge7pdyysez8mflo6h1j.webp)  
 *Không gian trà sữa bon bon làng đại học thủ đức* 
 
 Điểm đặc biệt nhất của Trà sữa Bon Bon 2 là:
@@ -90,7 +90,7 @@ thì đây là địa điểm khá phù hợp.
 
 
 ## 4. Menu nước uống và topping
-![Menu Trà sữa bon bon làng đại học thủ đức](/assets/images/menu_tra_sua_bon_bon_2_lang_dai_hoc_thu_duc.webp)  
+![Menu Trà sữa bon bon làng đại học thủ đức](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269658/snyseouofowaq2rimv4b.webp)  
 *Menu trà sữa bon bon làng đại học thủ đức* 
 
 Menu tại Trà sữa Bon Bon 2 khá đa dạng:
