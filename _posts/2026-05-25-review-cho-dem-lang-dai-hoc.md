@@ -3,10 +3,10 @@ layout: post
 title:  "Review Chợ Đêm Làng Đại Học – ăn vặt và mua sắm giá sinh viên tại Dĩ An"
 date: 2026-05-25 08:00:00 +0700  
 categories: [Review, Cà phê, Địa điểm, Ẩm thực]   
-tags: [chợ đêm làng đại học, ăn vặt làng đại học, làng đại học, ăn vặt dĩ an ]  
+tags: [ cho di an, an vat di an, check in di an, lang dai hoc di an ]  
 description: "Review Chợ Đêm Làng Đại Học – địa điểm ăn uống, mua sắm và giải trí quen thuộc của sinh viên với hàng trăm món ăn vặt, quần áo giá rẻ và không khí nhộn nhịp mỗi tối."
 image:
-  path: /assets/images/cho_dem_lang_dai_hoc.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1780072063/ka7iadzfhzlmutzrxexd.jpg
   alt: "Không khí tại Chợ Đêm Làng Đại Học"
 ---
 # Review Chợ Đêm Làng Đại Học – Thiên đường ăn vặt và mua sắm giá sinh viên tại Đông Hòa

@@ -2,11 +2,11 @@
 layout: post  
 title:  "Review H Cafe Dĩ An – Quán cafe sân vườn yên tĩnh với hồ cá đẹp tại Dĩ An"
 date: 2026-05-25 08:00:00 +0700  
-categories: [Review, Cà phê]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, h cafe dĩ an, cafe đông hòa, cafe sân vườn dĩ an ]  
+categories: [Review, Cà phê]    
+tags: [ cafe di an, cafe san vuon, tra sua di an ]  
 description: "Review H Cafe Dĩ An – quán cafe sân vườn nổi bật với không gian cổ điển, nhiều cây xanh, hồ cá cảnh đẹp và không khí yên tĩnh phù hợp thư giãn."
 image:
-  path: /assets/images/h_cafe_dian.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1780072090/ctdbageiwztdt2wyrekt.webp
   alt: "Không gian tại H Cafe Dĩ An"
 ---
 # Review H Cafe Dĩ An – Quán cafe sân vườn yên tĩnh với hồ cá đẹp tại Đông Hòa
@@ -87,7 +87,7 @@ giúp tạo nên một không gian mang lại cảm giác bình yên và dễ t�
 
 
 ## 4. Menu đồ uống tại H Cafe Dĩ An
-![Menu H Cafe Dĩ An](/assets/images/menu_h_cafe_dian.webp)  
+![Menu H Cafe Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1780072095/vg0swarapslg6k2d36mc.jpg)  
 *Menu cà phê H cafe ở Dĩ An* 
 
 Menu của quán khá đa dạng:

@@ -3,10 +3,10 @@ layout: post
 title:  "Review Home Coffee Khu A Làng Đại Học – Quán cafe học bài làng đại học"
 date: 2026-05-25 08:00:00 +0700  
 categories: [Review, Cà phê]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, làng đại học, cà phê làng đại học ]  
+tags: [ cafe di an, lang dai hoc di an, check in di an ]  
 description: "Review Home Coffee Khu A Làng Đại Học – quán cafe yên tĩnh với bàn học rộng, wifi mạnh, nhiều ổ cắm điện và tủ sách lớn phù hợp học tập, làm việc."
 image:
-  path: /assets/images/home_coffee_khu_a_lang_dai_hoc.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1780072085/e47yjexqzm6gvey9eguk.webp
   alt: "Không gian tại Home Coffee Khu A Làng Đại Học"
 ---
 # Review Home Coffee Khu A Làng Đại Học – Quán cafe học bài được sinh viên yêu thích
@@ -104,7 +104,7 @@ Không giống nhiều quán chỉ trưng bày sách để trang trí, tại đ�
 
 
 ## 5. Menu đồ uống tại Home Coffee
-![Menu Home Cafe làng đại học](/assets/images/menu_home_coffee_khu_a_lang_dai_hoc.webp)  
+![Menu Home Cafe làng đại học](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1780072091/okm27amx7pazl7u6wrvy.webp)  
 *Menu cà phê Home cafe ở làng đại học* 
 
 Menu của quán khá đa dạng với nhiều lựa chọn:
