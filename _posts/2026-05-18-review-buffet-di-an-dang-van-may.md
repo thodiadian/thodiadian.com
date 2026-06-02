@@ -5,8 +5,8 @@ date: 2026-05-18 20:00:00 +0700
 categories: [Review, Ẩm thực]
 tags: [quan an di an, buffet di an]
 description: "Khám phá Buffet Dĩ An - Đặng Văn Mây, thiên đường hải sản tươi sống 'ăn thả ga' tại khu phố Đông Chiêu, Dĩ An. Review chi tiết thực đơn 80 món, giá vé ưu đãi và không gian nhộn nhịp."
-image: 
-  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122397/wdnjmtzurybne8uccumm.jpg
+image:  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779207867/cs9dfqrgm9npkxigmohf.webp
   alt: "Quầy hải sản tươi sống và không gian sôi động tại Buffet Dĩ An Đặng Văn Mây"
 ---
 

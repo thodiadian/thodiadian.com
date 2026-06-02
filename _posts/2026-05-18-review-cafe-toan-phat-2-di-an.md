@@ -6,7 +6,7 @@ categories: [Review, Cà phê]
 tags: [cafe di an, check in di an]
 description: "Khám phá Cafe Toàn Phát 2 - thiên đường cá Koi sống ảo bậc nhất tại 246A Đoàn Thị Kia, Dĩ An. Review chi tiết không gian, menu đồ uống, hồ bơi và dịch vụ."
 image: 
-  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122430/cltlo85tefl6o0vitqlc.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779207941/rnljop4jkjxlbuqxjjmc.webp
   alt: "Hồ cá Koi khổng lồ và không gian xanh mát tại Cafe Toàn Phát 2 Dĩ An"
 ---
 

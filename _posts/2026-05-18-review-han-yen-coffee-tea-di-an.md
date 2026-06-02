@@ -3,10 +3,10 @@ layout: post
 title:  "Review Hàn Yên Coffee&Tea – Quán cafe học bài yên tĩnh tại Dĩ An"
 date: 2026-05-18 08:00:00 +0700  
 categories: [Review, Cà phê]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, ]  
+tags: [cafe di an, check in di an]  
 description:  "Review Hàn Yên Coffee&Tea – quán cafe yên tĩnh tại Đông Hòa-Dĩ An phù hợp học bài, làm việc với không gian sạch sẽ, wifi ổn định và menu đồ uống đa dạng."
 image:
-  path: /assets/images/han_yen_coffee_tea_di_an.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269640/wjdqdbjzdyyv5nmuxidf.webp  
   alt: "Không gian tại Hàn Yên Coffee&Tea dĩ an" 
 ---
 # Review Hàn Yên Coffee&Tea – Quán cafe học bài yên tĩnh tại Đông Hòa
@@ -41,7 +41,7 @@ Dù vị trí hơi khuất một chút nhưng khi ghé thử, nhiều khách đ�
 
 
 ## 2. Không gian quán có gì nổi bật?
-![Hàn Yên cà phê Dĩ An](/assets/images/khong_gian_han_yen_coffee_tea_di_an.webp)  
+![Hàn Yên cà phê Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269643/rajha4apbvukzsaqnvzc.webp)  
 *Không gian đẹp Hàn Yên cà phê Dĩ An*  
 
 Ấn tượng đầu tiên của Hàn Yên Coffee&Tea là:
@@ -83,7 +83,7 @@ Nhiều khách còn đánh giá:
 
 
 ## 4. Menu nước uống và đồ ăn
-![Menu Hàn Yên cà phê Dĩ An](/assets/images/menu_han_yen_coffee_tea_di_an.webp)  
+![Menu Hàn Yên cà phê Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269653/li8frnhiefdmzc22golp.webp)  
 *Menu đồ uống rẻ của quán Hàn Yên cà phê Dĩ An*  
 
 Menu tại Hàn Yên Coffee&Tea khá đa dạng:
@@ -161,5 +161,5 @@ Câu trả lời là CÓ nếu bạn:
 
 ---
 
-
+{% include category-posts.html %}
 

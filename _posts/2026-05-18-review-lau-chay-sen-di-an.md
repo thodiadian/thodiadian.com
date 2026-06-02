@@ -6,7 +6,7 @@ categories: [Review, Ẩm thực]
 tags: [quan an di an]
 description: "Khám phá Lẩu Chay Sen - ốc đảo thanh tịnh dành cho tín đồ ẩm thực thuần chay tại Hẻm 340 Nguyễn An Ninh, Dĩ An. Review chi tiết không gian, thực đơn lẩu Thái - lẩu Nấm và dịch vụ."
 image: 
-  path: https://res.cloudinary.com/dh2jtjttt/image/upload/v1779122440/mlyo6klemsxfnzkyydaw.jpg
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779207946/niq5zq2ydla6aah1bwij.webp
   alt: "Không gian thanh tịnh và nồi lẩu chay hấp dẫn tại Lẩu Chay Sen Dĩ An"
 ---
 

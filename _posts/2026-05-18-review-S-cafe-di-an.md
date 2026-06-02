@@ -3,10 +3,10 @@ layout: post
 title:  "Review S - Cafe Dĩ An – Quán cafe sinh viên gần ký túc xá cực chill"  
 date: 2026-05-18 08:00:00 +0700  
 categories: [Review, Cà phê]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, ]  
+tags: [cafe di an, check in di an, tra sua di an]  
 description:  "Review S - Cafe Dĩ An – quán cafe mới gần Khu A Làng Đại học với không gian chill, wifi mạnh, nhiều ổ cắm và đồ uống giá sinh viên."  
 image:
-  path: /assets/images/s_cafe_dian.webp  
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269662/u4e3lccygdniwrbqet2o.webp  
   alt:   "Không gian chill tại S - Cafe Dĩ An"  
 ---
 # Review S - Cafe Dĩ An – Quán cafe mới cực chill gần Khu A Làng Đại học
@@ -42,7 +42,7 @@ Quán nằm gần:
 
 ## 2. Không gian quán có gì nổi bật?
 
-![S - Cafe Dĩ An](/assets/images/khong_gian_s_cafe_dian.webp)  
+![S - Cafe Dĩ An](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1779269646/ihxenogco3ynwaxg5toy.webp)  
 *Không gian hiện đại và chill tại S - Cafe Dĩ An*
 
 Ấn tượng đầu tiên khi bước vào quán là:
@@ -166,6 +166,6 @@ Ngoài không gian đẹp, quán còn có:
 - **🗺️ Google Maps:** [S - cafe](https://maps.app.goo.gl/8jSC9zGupchdPgJk6)
 
 ---
-
+{% include category-posts.html %}
 
 
