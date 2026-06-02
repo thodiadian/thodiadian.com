@@ -1,6 +1,156 @@
 {
   "project": "Thổ Địa Dĩ An",
-  "target_audience": "Sinh viên Làng Đại học, người dân Dĩ An",
-  "primary_keywords": ["quán cafe dĩ an", "ăn vặt làng đại học", "phòng trọ dĩ an"],
-  "goals": "Lọt top 10 Google cho 5 từ khóa địa phương"
+  "last_reviewed": "2026-06-02",
+  "site": {
+    "url": "https://thodiadian.com",
+    "platform": "Jekyll + jekyll-theme-chirpy",
+    "language": "vi-VN",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "content_inventory": {
+      "published_markdown_posts": 52,
+      "primary_categories": ["Cà phê", "Ẩm thực", "Địa điểm", "Giải trí", "Trà sữa", "Thể thao"],
+      "core_tags": [
+        "cafe di an",
+        "quan an di an",
+        "an vat di an",
+        "tra sua di an",
+        "check in di an",
+        "du lich di an",
+        "lang dai hoc di an"
+      ]
+    }
+  },
+  "positioning": "Cẩm nang review địa phương cho người muốn tìm chỗ ăn, uống, học bài, check-in và vui chơi tại Dĩ An, Đông Hòa và khu Làng Đại học.",
+  "target_audiences": [
+    "Sinh viên Làng Đại học và khu ký túc xá",
+    "Người dân Dĩ An, Đông Hòa, Tân Đông Hiệp",
+    "Người trẻ tìm quán cà phê, ăn vặt, trà sữa, chợ đêm và điểm check-in",
+    "Nhóm bạn hoặc gia đình tìm địa điểm vui chơi cuối tuần ở Dĩ An"
+  ],
+  "seo_goals": [
+    {
+      "metric": "Topical coverage",
+      "target": "Phủ các nhóm từ khóa địa phương chính về cà phê, ăn uống, check-in, giải trí và Làng Đại học",
+      "timeframe": "Liên tục"
+    },
+    {
+      "metric": "Google ranking",
+      "target": "Đưa ít nhất 5 từ khóa địa phương vào top 10 Google",
+      "timeframe": "3-6 tháng sau khi nội dung được index ổn định"
+    },
+    {
+      "metric": "Organic CTR",
+      "target": "Tối ưu title và description cho các bài có impression cao nhưng CTR thấp",
+      "timeframe": "Kiểm tra hằng tuần trong Google Search Console"
+    }
+  ],
+  "primary_keywords": [
+    "quán cafe dĩ an",
+    "quán cafe học bài dĩ an",
+    "quán ăn dĩ an",
+    "ăn vặt dĩ an",
+    "trà sữa dĩ an",
+    "địa điểm check in dĩ an",
+    "làng đại học dĩ an"
+  ],
+  "secondary_keywords": [
+    "quán ăn sinh viên làng đại học",
+    "chợ đêm làng đại học",
+    "cafe sân vườn dĩ an",
+    "du lịch dĩ an",
+    "địa điểm vui chơi dĩ an",
+    "buffet dĩ an",
+    "quán gần ký túc xá làng đại học",
+    "địa chỉ quán cafe dĩ an",
+    "review quán ăn dĩ an"
+  ],
+  "content_pillars": [
+    {
+      "name": "Cà phê và học bài",
+      "intent": "Tìm quán yên tĩnh, đẹp, có wifi, ổ cắm, giá phù hợp sinh viên",
+      "target_keywords": ["quán cafe dĩ an", "quán cafe học bài dĩ an", "cafe sân vườn dĩ an"],
+      "content_types": ["Review từng quán", "Top list theo nhu cầu", "So sánh quán theo khu vực"]
+    },
+    {
+      "name": "Ẩm thực và ăn vặt",
+      "intent": "Tìm quán ăn ngon, rẻ, dễ đi, phù hợp sinh viên và nhóm bạn",
+      "target_keywords": ["quán ăn dĩ an", "ăn vặt dĩ an", "buffet dĩ an"],
+      "content_types": ["Review quán", "Top món nên thử", "Gợi ý ăn theo ngân sách"]
+    },
+    {
+      "name": "Làng Đại học",
+      "intent": "Tìm địa điểm ăn uống, học tập, giải trí quanh khu sinh viên",
+      "target_keywords": ["làng đại học dĩ an", "quán ăn sinh viên làng đại học", "chợ đêm làng đại học"],
+      "content_types": ["Review theo khu", "Cẩm nang tân sinh viên", "Lịch trình một buổi tối"]
+    },
+    {
+      "name": "Địa điểm và check-in",
+      "intent": "Tìm nơi đi chơi, chụp hình, thư giãn cuối tuần",
+      "target_keywords": ["địa điểm check in dĩ an", "du lịch dĩ an", "địa điểm vui chơi dĩ an"],
+      "content_types": ["Review địa điểm", "Hướng dẫn đường đi", "Lưu ý an toàn và thời điểm nên đi"]
+    }
+  ],
+  "content_rules": {
+    "slug_pattern": "YYYY-MM-DD-ten-bai-viet-khong-dau.md",
+    "required_front_matter": ["layout", "title", "date", "categories", "tags", "description", "image.path", "image.alt"],
+    "description_guideline": "120-160 ký tự, có từ khóa chính, nêu lợi ích cụ thể và không dùng placeholder.",
+    "image_guideline": "Ưu tiên ảnh thật của địa điểm. Với Cloudinary, dùng q_auto và f_auto để tối ưu hiệu năng.",
+    "internal_linking": "Cuối bài thêm include category-posts.html và chèn 2-4 liên kết ngữ cảnh tới bài cùng chủ đề khi phù hợp.",
+    "local_detail_required": ["Địa chỉ", "Giờ mở cửa", "Giá tham khảo", "Ưu điểm", "Nhược điểm", "Google Maps nếu có"],
+    "tag_normalization": {
+      "preferred_tags": [
+        "cafe di an",
+        "quan an di an",
+        "an vat di an",
+        "tra sua di an",
+        "check in di an",
+        "du lich di an",
+        "giai tri di an",
+        "lang dai hoc di an",
+        "the thao di an",
+        "cho di an",
+        "buffet di an"
+      ],
+      "avoid": ["Tag trùng nghĩa", "Tag có khoảng trắng dư ở đầu/cuối", "Tag có dấu và không dấu lẫn lộn cho cùng một ý định tìm kiếm"]
+    }
+  },
+  "technical_seo": {
+    "permalink": "/posts/:title/",
+    "pagination": 10,
+    "pwa_enabled": true,
+    "analytics": "Google Analytics 4",
+    "verification": "Google Search Console",
+    "robots": "Allow all và khai báo sitemap production",
+    "build_check": "bundle exec jekyll b và html-proofer qua tools/test.sh hoặc GitHub Actions"
+  },
+  "publishing_plan": {
+    "cadence": "2-3 bài/tuần khi có nguồn dữ liệu và ảnh ổn định",
+    "priority_topics": [
+      "Top quán cafe học bài theo từng khu: Đông Hòa, Tân Đông Hiệp, gần KTX",
+      "Top quán ăn sinh viên dưới 50k tại Làng Đại học",
+      "Cụm bài chợ đêm, ăn vặt, trà sữa và địa điểm đi chơi buổi tối",
+      "Cụm bài địa điểm check-in và vui chơi cuối tuần tại Dĩ An"
+    ],
+    "refresh_cycle": "Cập nhật bài cũ mỗi 2-3 tháng hoặc khi giá, giờ mở cửa, địa chỉ, link Maps thay đổi"
+  },
+  "measurement": {
+    "tools": ["Google Search Console", "Google Analytics 4", "PageSpeed Insights", "html-proofer"],
+    "weekly_checks": [
+      "Trang mới đã được index chưa",
+      "Truy vấn có impression cao nhưng CTR thấp",
+      "Bài có traffic tốt cần thêm liên kết nội bộ",
+      "Lỗi ảnh, link ngoài và link Google Maps"
+    ],
+    "monthly_checks": [
+      "Nhóm từ khóa nào thiếu bài pillar hoặc top list",
+      "Category/tag nào bị phân mảnh hoặc trùng nghĩa",
+      "Bài cũ nào cần cập nhật title, description, giá, giờ mở cửa"
+    ]
+  },
+  "maintenance_notes": [
+    "Không đổi permalink nếu chưa chuẩn bị redirect.",
+    "Không tạo category/tag mới nếu chỉ khác chính tả hoặc khác dấu.",
+    "README.md bị loại khỏi build và thay đổi README không kích hoạt deploy.",
+    "Các thay đổi trong _config.yml, _includes hoặc assets/css cần build lại trước khi push."
+  ]
 }
