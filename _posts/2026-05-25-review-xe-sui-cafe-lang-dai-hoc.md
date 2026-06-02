@@ -3,10 +3,10 @@ layout: post
 title:   "Review Xê Sủi Coffee – Quán cafe phong cách Đà Lạt gần làng đại học"
 date: 2026-05-25 08:00:00 +0700  
 categories: [Review, Cà phê]   
-tags: [cafe dĩ an, quán cafe đẹp ở dĩ an, quán cafe dĩ an, cà phê dĩ an, quán cà phê đẹp ở dĩ an, làng đại học, cà phê làng đại học, xê sủi coffee ]  
+tags: [ cafe di an, lang dai hoc di an, tra sua di an ]  
 description: "Review Xê Sủi Coffee – quán cafe phong cách Đà Lạt với không gian sân vườn rộng rãi, nhiều góc học tập, acoustic buổi tối và mở cửa 24/7."
 image:
-  path: /assets/images/xe_sui_coffee_lang_dai_hoc.webp
+  path: https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1780072101/kzjpduzjdxne0xi9v93v.jpg
   alt: "Không gian tại Xê Sủi Coffee"
 ---
 # Review Xê Sủi Coffee – Quán cafe phong cách Đà Lạt mở cửa 24/7 tại Đông Hòa
@@ -110,7 +110,7 @@ Nhiều khách đánh giá Xê Sủi Coffee là:
 
 
 ## 4. Menu đồ uống đa dạng
-![Menu xê sủi cà phê làng đại học](/assets/images/menu_xe_sui_coffee_lang_dai_hoc.webp)  
+![Menu xê sủi cà phê làng đại học](https://res.cloudinary.com/dh2jtjttt/image/upload/w_1000,q_auto,f_auto/v1780072098/eysc3xd3yk0glhzpxa9f.webp)  
 *Menu cà phê xê sủi cafe ở làng đại học* 
 
 Menu của quán khá phong phú:
