@@ -4,7 +4,7 @@ title: "Vui Chơi Tại Công Viên Hành Chính Dĩ An: Lá Phổi Xanh Của T
 date: 2026-04-11 17:00:00 +0700
 categories: [Review, Giải trí]
 tags: [check in di an, giai tri di an]
-description: "Khám phá Công viên hành chính Dĩ An - điểm đến lý tưởng cho các hoạt động thể thao, dã ngoại và vui chơi trẻ em. BẮT BUỘC có chứa từ khóa chính để thu hút người click trên Google"
+description: "Khám phá Công viên hành chính Dĩ An - điểm đến lý tưởng cho các hoạt động thể thao, dã ngoại và vui chơi trẻ em."
 image: 
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/Cong_vien_hanh_chinh_di_an_1200-960_cwpc1a.jpg
   alt: "[Không gian thoáng đãng tại công viên hành chính Dĩ An vào buổi chiều]"

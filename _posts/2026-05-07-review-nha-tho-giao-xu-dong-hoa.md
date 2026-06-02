@@ -4,7 +4,7 @@ title:  "Review Giáo xứ Đông Hòa Dĩ An – Nhà thờ rộng rãi gần K
 date: 2026-05-07 08:00:00 +0700  
 categories: [Review, Địa điểm]   
 tags: [check in di an, du lich di an]  
-description:  "Review Chùa Châu Thới Bình Dương – ngôi chùa cổ hơn 300 năm tuổi với view núi cực đẹp, tượng Quan Âm khổng lồ và không gian thanh tịnh."  
+description:  "Review Giáo xứ Đông Hòa Dĩ An – nhà thờ Công giáo rộng rãi gần KTX Làng Đại học, có nhiều giờ lễ và không gian trang nghiêm, yên bình."  
 image:  
   path: https://res.cloudinary.com/dh2jtjttt/image/upload/f_auto,q_auto/v1/my_web_assets/giao_xu_dong_hoa_nwhloy.webp
   alt:  "Giáo xứ Đông Hòa Dĩ An rộng rãi và trang nghiêm"  
